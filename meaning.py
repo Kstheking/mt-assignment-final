@@ -15,7 +15,7 @@ meanings_folder_path = "meanings"
 
 
 def write_to_json(object, file_path):
-    with open(file_path+".json", "w+") as outfile:
+    with open(file_path+".json", "w+", encoding='utf-8') as outfile:
         json.dump(object, outfile, indent=4, ensure_ascii=False)
 
 
@@ -39,7 +39,7 @@ def fetch_meaning_from_url(url, session):
         'td', {'class': 't_pronunciation t_data'})]
     word_examples = [(w_ex.find('dt').text, w_ex.find('dd').text)
                      for w_ex in soup.find_all('td', {'class': 't_sentence t_data'})]
-    word_array = [{'type': wt, 'japanese': wh, 'hirangana': wh, 'pronunciation': wp, 'example_eng': we[0], 'example_jap':we[1]}
+    word_array = [{'type': wt, 'japanese': wj, 'hirangana': wh, 'pronunciation': wp, 'example_eng': we[0], 'example_jap':we[1]}
                   for wt, wj, wh, wp, we in zip(word_types, word_japaneses, word_hiraganas, word_pronunciations, word_examples)]
     word_object = {word_english: word_array}
     return word_object
@@ -50,6 +50,7 @@ def worker(words_folder):
     words_folder_path = words_folder["path"]
     words_folder_name = words_folder["name"]
     files = get_subfiles(words_folder_path)
+    print(files)
 
     parent_folder = meanings_folder_path+"/" + words_folder_name
     os.mkdir(parent_folder)
@@ -58,9 +59,9 @@ def worker(words_folder):
         meanings = {}
         for url in words_url:
             meaning = fetch_meaning_from_url(base_url+url, session)
-            meanings = {**meanings, **meaning}
+            meanings.update(meaning)
         print(meanings)
-        write_to_json(meanings, parent_folder+"/"+file['name'])
+        # write_to_json(meanings, parent_folder+"/"+file['name'])
 
 
 def meaning_fetch():
@@ -72,7 +73,6 @@ def meaning_fetch():
         os.makedirs(path)
     p = mp.Pool(26)
     words_folders = get_subfolders(link_folder_path)
-    print(words_folders)
     p.map(worker, words_folders)
     p.close()
     p.join()
