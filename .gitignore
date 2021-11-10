@@ -2,3 +2,5 @@ env
 links
 __pycache__
 .idea
+meanings
+sample.json
