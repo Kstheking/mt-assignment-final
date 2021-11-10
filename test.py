@@ -27,26 +27,26 @@ from bs4 import BeautifulSoup
 #     }
 # }
 
-
-url_page = 'https://japanesedictionary.org/translate-english/about'
 session = requests.Session()
-page = session.get(url_page)
-soup = BeautifulSoup(page.content, 'html.parser')
+url_pages = ['https://japanesedictionary.org/translate-english/about',
+        'https://japanesedictionary.org/translate-english/abound', 'https://japanesedictionary.org/translate-english/above']
+word_objects = dict()
+for url in url_pages:
+    page = session.get(url)
+    soup = BeautifulSoup(page.content, 'html.parser')
 
-word_english = soup.find('td', {'class': 't_english t_data'}).text
-word_types = [w_type.text for w_type in soup.find_all(
-    'td', {'class': 't_type t_data'})]
-word_japaneses = [w_jap.text for w_jap in soup.find_all(
-    'td', {'class': 't_japanese t_data'})]
-word_hiraganas = [w_hir.text for w_hir in soup.find_all(
-    'td', {'class': 't_hiragana t_data'})]
-word_pronunciations = [w_pro.text for w_pro in soup.find_all(
-    'td', {'class': 't_pronunciation t_data'})]
-word_examples = [(w_ex.find('dt').text, w_ex.find('dd').text)
-                 for w_ex in soup.find_all('td', {'class': 't_sentence t_data'})]
-word_array = [{'type': wt, 'japanese': wh, 'hirangana': wh, 'pronunciation': wp, 'example_eng': we[0], 'example_jap':we[1]}
-              for wt, wj, wh, wp, we in zip(word_types, word_japaneses, word_hiraganas, word_pronunciations, word_examples)]
-word_object = {word_english: word_array}
+    word_english = soup.find('td', {'class': 't_english t_data'}).text
+    word_types = [w_type.text for w_type in soup.find_all('td', {'class': 't_type t_data'})]
+    word_japaneses = [w_jap.text for w_jap in soup.find_all('td', {'class': 't_japanese t_data'})]
+    word_hiraganas = [w_hir.text for w_hir in soup.find_all('td', {'class': 't_hiragana t_data'})]
+    word_pronunciations = [w_pro.text for w_pro in soup.find_all('td', {'class': 't_pronunciation t_data'})]
+    word_examples = [(w_ex.find('dt').text, w_ex.find('dd').text)
+                     for w_ex in soup.find_all('td', {'class': 't_sentence t_data'})]
+    word_array = [{'type': wt, 'japanese': wj, 'hirangana': wh, 'pronunciation': wp, 'example_eng': we[0], 'example_jap':we[1]}
+                  for wt, wj, wh, wp, we in zip(word_types, word_japaneses, word_hiraganas, word_pronunciations, word_examples)]
+    word_object = {word_english: word_array}
+    word_objects.update(word_object)
 
-with open("sample.json", "w") as outfile:
-    json.dump(word_object, outfile, indent=4, ensure_ascii=False)
+print(word_objects)
+with open('sample.json', 'w', encoding='utf-8') as outfile:
+    json.dump(word_objects, outfile, indent=4, ensure_ascii=False)

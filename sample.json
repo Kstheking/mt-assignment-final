@@ -1,0 +1,112 @@
+{
+    "about": [
+        {
+            "type": "preposition",
+            "japanese": "頃",
+            "hirangana": "ころ",
+            "pronunciation": "koro",
+            "example_eng": "He sent me an e-mail at about the end of May",
+            "example_jap": "彼が私にメールを送ってきたのは5月末頃だった。"
+        },
+        {
+            "type": "adverb",
+            "japanese": "そこそこ",
+            "hirangana": "そこそこ",
+            "pronunciation": "sokosoko",
+            "example_eng": "About 40,000 mainland Chinese now live in Japan.",
+            "example_jap": "現在日本に住んでいる大陸の中国人は4万人そこそこいる。"
+        },
+        {
+            "type": "preposition",
+            "japanese": "約",
+            "hirangana": "やく",
+            "pronunciation": "yaku",
+            "example_eng": "About 1,000 mothers participated in it.",
+            "example_jap": "約1000人の母親が調査に参加しました。"
+        },
+        {
+            "type": "adverb",
+            "japanese": "おおよそ",
+            "hirangana": "おおよそ",
+            "pronunciation": "ooyoso",
+            "example_eng": "That's about the same for me.",
+            "example_jap": "それは私の場合とおおよそ同じだ。"
+        },
+        {
+            "type": "preposition",
+            "japanese": "ついて",
+            "hirangana": "ついて",
+            "pronunciation": "tsuite",
+            "example_eng": "Let's talk about our plan.",
+            "example_jap": "計画について話そう。"
+        },
+        {
+            "type": "adverb",
+            "japanese": "およそ",
+            "hirangana": "およそ",
+            "pronunciation": "oyoso",
+            "example_eng": "About 41,000 spectators were at the dome to see the game.",
+            "example_jap": "およそ4万1000人の観衆がドームでその試合を観戦した。"
+        },
+        {
+            "type": "adverb",
+            "japanese": "頃",
+            "hirangana": "ごろ",
+            "pronunciation": "goro",
+            "example_eng": "Let's meet at about 6.",
+            "example_jap": "6時ごろに会いましょう。"
+        }
+    ],
+    "abound": [
+        {
+            "type": "verb",
+            "japanese": "富む",
+            "hirangana": "とむ",
+            "pronunciation": "tomu",
+            "example_eng": "abound in natural resources",
+            "example_jap": "天然資源に富む"
+        }
+    ],
+    "above": [
+        {
+            "type": "preposition",
+            "japanese": "超えて",
+            "hirangana": "こえて",
+            "pronunciation": "koete",
+            "example_eng": "above a certain size",
+            "example_jap": "一定規模を超えて"
+        },
+        {
+            "type": "adverb",
+            "japanese": "以上",
+            "hirangana": "いじょう",
+            "pronunciation": "ijou",
+            "example_eng": "above a week",
+            "example_jap": "一週間以上"
+        },
+        {
+            "type": "preposition",
+            "japanese": "上",
+            "hirangana": "うえ",
+            "pronunciation": "ue",
+            "example_eng": "The clouds are above the mountain",
+            "example_jap": "山の上に雲が浮かんでいる。"
+        },
+        {
+            "type": "adjective",
+            "japanese": "前記",
+            "hirangana": "ぜんき",
+            "pronunciation": "zenki",
+            "example_eng": "as above stated",
+            "example_jap": "前記のように"
+        },
+        {
+            "type": "adverbial noun",
+            "japanese": "以上",
+            "hirangana": "いじょう",
+            "pronunciation": "ijou",
+            "example_eng": "summarize the points mentioned above",
+            "example_jap": "以上述べた論点を要約する"
+        }
+    ]
+}
