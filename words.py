@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 from common import base_url, letter_list, link_folder_path
 
 
-page_url = base_url+'browse/letter/{letter}/page-{page_number}'
+page_url = base_url+'/browse/letter/{letter}/page-{page_number}'
 letter_links_folder_path = (link_folder_path+'/{letter_name}')
 
 

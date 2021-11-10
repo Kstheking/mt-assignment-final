@@ -21,7 +21,8 @@ def write_to_json(object, file_path):
 
 def get_words_url(file):
     with open(file['path']) as file:
-        return file.readlines()
+        lines = [line.strip() for line in file.readlines()]
+        return lines
 
 
 def fetch_meaning_from_url(url, session):
@@ -50,7 +51,6 @@ def worker(words_folder):
     words_folder_path = words_folder["path"]
     words_folder_name = words_folder["name"]
     files = get_subfiles(words_folder_path)
-    print(files)
 
     parent_folder = meanings_folder_path+"/" + words_folder_name
     os.mkdir(parent_folder)
@@ -60,8 +60,8 @@ def worker(words_folder):
         for url in words_url:
             meaning = fetch_meaning_from_url(base_url+url, session)
             meanings.update(meaning)
-        print(meanings)
-        # write_to_json(meanings, parent_folder+"/"+file['name'])
+        # print(meanings)
+        write_to_json(meanings, parent_folder+"/"+file['name'])
 
 
 def meaning_fetch():
@@ -76,6 +76,8 @@ def meaning_fetch():
     p.map(worker, words_folders)
     p.close()
     p.join()
+
+
 
 
 meaning_fetch()
