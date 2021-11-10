@@ -1,5 +1,6 @@
 import os
 
+
 base_url = 'https://japanesedictionary.org'
 
 letter_list = ({'letter': 'a', 'page_count': 38}, {'letter': 'b', 'page_count': 25}, {'letter': 'c', 'page_count': 46}, {'letter': 'd', 'page_count': 25}, {

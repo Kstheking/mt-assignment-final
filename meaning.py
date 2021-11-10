@@ -1,9 +1,8 @@
 import json
 import os
 import shutil
-
-import os
-import shutil
+from typing import ChainMap
+import pandas as pd
 import requests
 import multiprocessing as mp
 from tqdm import tqdm
@@ -60,11 +59,10 @@ def worker(words_folder):
         for url in words_url:
             meaning = fetch_meaning_from_url(base_url+url, session)
             meanings.update(meaning)
-        # print(meanings)
         write_to_json(meanings, parent_folder+"/"+file['name'])
 
 
-def meaning_fetch():
+def fetch_meanings():
     path = meanings_folder_path
     if not os.path.exists(path):
         os.makedirs(path)
@@ -78,6 +76,31 @@ def meaning_fetch():
     p.join()
 
 
+def read_meaning_json_file(words_folders):
+    files = get_subfiles(words_folders['path'])
+    meanings = []
+    for file in files:
+        with open(file['path']) as opened_file:
+            meaning = json.loads(opened_file.read())
+            meanings.append(meaning)
+
+    meanings = dict(ChainMap(*meanings))
+
+    write_to_json(object=meanings, file_path=words_folders['path']+"/merged")
+
+    return meanings
 
 
-meaning_fetch()
+def get_merged_meaning():
+    p = mp.Pool(26)
+    words_folders = get_subfolders(meanings_folder_path)
+    meanings = p.map(read_meaning_json_file, words_folders)
+    merged_meanings = dict(ChainMap(*meanings))
+    write_to_json(object=merged_meanings,
+                  file_path=meanings_folder_path+"/merged")
+    p.close()
+    p.join()
+    return merged_meanings
+
+
+get_merged_meaning()

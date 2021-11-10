@@ -34,7 +34,7 @@ def fetch_letters(page_number, letter_name, parent_folder, session):
         [file.write(wl[1]+'\n') for wl in word_links]
 
 
-def wordFetch():
+def fetch_words_link():
     path = link_folder_path
     if not os.path.exists(path):
         os.makedirs(path)
