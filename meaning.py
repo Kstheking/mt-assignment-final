@@ -7,10 +7,7 @@ import requests
 import multiprocessing as mp
 from tqdm import tqdm
 from bs4 import BeautifulSoup
-from common import link_folder_path, get_subfolders, base_url, get_subfiles
-
-
-meanings_folder_path = "meanings"
+from common import link_folder_path, get_subfolders, base_url, get_subfiles, meanings_folder_path
 
 
 def write_to_json(object, file_path):
@@ -101,6 +98,3 @@ def get_merged_meaning():
     p.close()
     p.join()
     return merged_meanings
-
-
-get_merged_meaning()

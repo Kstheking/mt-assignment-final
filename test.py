@@ -62,7 +62,6 @@ with open('sample.json', 'r', encoding='utf8') as file_json:
         for word, word_definitions in word_objects.items():
             [writer.writerow({'english': word.replace(' ', '-')+'_'+str(i+1), 'type': wd['type'], 'japanese': wd['japanese'], 'hirangana': wd['hirangana'],
             'pronunciation': wd['pronunciation'],  'example_eng': wd['example_eng'], 'example_jap': wd['example_jap']}) for i, wd in enumerate(word_definitions)]
-            
-            
+                  
             
             
