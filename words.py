@@ -18,9 +18,10 @@ def worker(work_data):
         file_path = "{parent_folder_name}/{page_number}.txt".format(
             page_number=page_number+1, parent_folder_name=parent_folder)
         url = base_url.format(
-            letter=work_data["letter"], page_number=page_number)
+            letter=work_data["letter"], page_number=page_number+1)
         with open(file_path, 'w+') as file:
             data = url
+
             file.write(data+'\n')
 
 
