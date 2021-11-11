@@ -23,8 +23,7 @@ def worker(work_data):
 def fetch_letters(page_number, letter_name, parent_folder, session):
     file_path = '{parent_folder_name}/{page_number}.txt'.format(
         page_number=page_number+1, parent_folder_name=parent_folder)
-    url = page_url.format(
-        letter=letter_name, page_number=page_number+1)
+    url = page_url.format(letter=letter_name, page_number=page_number+1)
     with open(file_path, 'w+') as file:
         page = session.get(url)
         soup = BeautifulSoup(page.content, 'html.parser')

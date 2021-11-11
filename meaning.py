@@ -26,14 +26,10 @@ def fetch_meaning_from_url(url, session):
     soup = BeautifulSoup(page.content, 'html.parser')
 
     word_english = soup.find('td', {'class': 't_english t_data'}).text
-    word_types = [w_type.text for w_type in soup.find_all(
-        'td', {'class': 't_type t_data'})]
-    word_japaneses = [w_jap.text for w_jap in soup.find_all(
-        'td', {'class': 't_japanese t_data'})]
-    word_hiraganas = [w_hir.text for w_hir in soup.find_all(
-        'td', {'class': 't_hiragana t_data'})]
-    word_pronunciations = [w_pro.text for w_pro in soup.find_all(
-        'td', {'class': 't_pronunciation t_data'})]
+    word_types = [w_type.text for w_type in soup.find_all('td', {'class': 't_type t_data'})]
+    word_japaneses = [w_jap.text for w_jap in soup.find_all('td', {'class': 't_japanese t_data'})]
+    word_hiraganas = [w_hir.text for w_hir in soup.find_all('td', {'class': 't_hiragana t_data'})]
+    word_pronunciations = [w_pro.text for w_pro in soup.find_all('td', {'class': 't_pronunciation t_data'})]
     word_examples = [(w_ex.find('dt').text, w_ex.find('dd').text)
                      for w_ex in soup.find_all('td', {'class': 't_sentence t_data'})]
     word_array = [{'type': wt, 'japanese': wj, 'hirangana': wh, 'pronunciation': wp, 'example_eng': we[0], 'example_jap':we[1]}
@@ -77,7 +73,7 @@ def read_meaning_json_file(words_folders):
     files = get_subfiles(words_folders['path'])
     meanings = []
     for file in files:
-        with open(file['path']) as opened_file:
+        with open(file['path'], encoding='utf-8') as opened_file:
             meaning = json.loads(opened_file.read())
             meanings.append(meaning)
 
@@ -88,7 +84,7 @@ def read_meaning_json_file(words_folders):
     return meanings
 
 
-def get_merged_meaning():
+def merge_meanings():
     p = mp.Pool(26)
     words_folders = get_subfolders(meanings_folder_path)
     meanings = p.map(read_meaning_json_file, words_folders)
