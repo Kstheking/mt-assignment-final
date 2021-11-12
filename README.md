@@ -6,7 +6,7 @@ A powerful little tool that generates an English-Japanese Dictionary
 
 ## Setup Instructions  
 
-![Setup Instructions](https://i.imgur.com/61r6TL8.png)
+![Setup Instructions](https://i.imgur.com/dkxdgmp.png)
 
 <!-- - Open a Shell preferably bash, cd to wherever you want this repository and clone it, something like below: 
     - `cd Documents/`
