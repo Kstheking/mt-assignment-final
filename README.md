@@ -1,5 +1,6 @@
 # English to Japanese Dictionary Creator 
 A powerful little tool that generates an English-Japanese Dictionary  
+[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/Naereen/)
 Built with ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## Setup Instructions
