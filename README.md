@@ -1,6 +1,6 @@
 # English to Japanese Dictionary Creator 
-A powerful little tool that generates an English-Japanese Dictionary
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+A powerful little tool that generates an English-Japanese Dictionary  
+Built with ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## Setup Instructions
 
