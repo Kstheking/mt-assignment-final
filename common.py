@@ -11,6 +11,7 @@ letter_list = ({'letter': 'a', 'page_count': 38}, {'letter': 'b', 'page_count': 
 link_folder_path = 'links'
 meanings_folder_path = "meanings"
 
+
 def csv_to_excel(csv_file_path, excel_file_path):
     df = pd.read_csv(csv_file_path, sep="|")
     df = df.sort_values(by=['english'], ascending=True)
@@ -32,18 +33,38 @@ def get_subfiles(path):
 def json_to_csv_generator(json_file_path, csv_file_path):
     with open(json_file_path, 'r', encoding='utf8') as file_json:
         word_objects = json.load(file_json)
+        hindi_concept_pair = get_english_word_hindi_concept(
+            "H_concept-to-mrs-rels.dat")
         with open(csv_file_path, 'w', encoding='utf8') as file_csv:
-            field_names = ['english', 'type', 'japanese', 'hirangana', 'pronunciation', 'example_eng', 'example_jap']
-            writer = csv.DictWriter(file_csv, delimiter='|', fieldnames=field_names)
+            field_names = ['english', 'hindi_concept', 'type', 'japanese', 'hirangana',
+                           'pronunciation', 'example_eng', 'example_jap']
+            writer = csv.DictWriter(
+                file_csv, delimiter='|', fieldnames=field_names)
             writer.writeheader()
             for word, word_definitions in tqdm(word_objects.items()):
-                [writer.writerow({'english': word.replace(' ', '-').lower()+'_'+str(i+1), 'type': wd['type'], 'japanese': wd['japanese'], 'hirangana': wd['hirangana'],
+                hindi_concept = ''
+                if word in hindi_concept_pair:
+                    for hindi in hindi_concept_pair[word]:
+                        hindi_concept = hindi_concept+hindi+","
+                hindi_concept = hindi_concept[:-1]
+                [writer.writerow({'english': word.replace(' ', '-').lower()+'_'+str(i+1), 'hindi_concept': hindi_concept, 'type': wd['type'], 'japanese': wd['japanese'], 'hirangana': wd['hirangana'],
                                   'pronunciation': wd['pronunciation'],  'example_eng': wd['example_eng'], 'example_jap': wd['example_jap']}) for i, wd in enumerate(word_definitions)]
 
+
 def get_english_word_hindi_concept(h_concept_file_path):
-    with open(h_concept_file_path,'r') as file:
-        for line in file:
-            print(line.rstrip()) 
-
-
-print(get_english_word_hindi_concept("H_concept-to-mrs-rels.dat"))
+    with open(h_concept_file_path, 'r') as file:
+        words = {}
+        for index, line in enumerate(file):
+            h_concept = line.rstrip()
+            try:
+                h_concept = h_concept.split()
+                hindi_word = h_concept[1].split('_')[0]
+                english_word = h_concept[2].split('_')[0]
+                if english_word in words:
+                    words[english_word].append(hindi_word)
+                else:
+                    words[english_word] = [hindi_word]
+            except:
+                print("skipping line number:", index+1,
+                      h_concept, " not able to parse")
+        return words
