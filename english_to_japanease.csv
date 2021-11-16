@@ -156,7 +156,7 @@ larva_1|noun|幼虫|ようちゅう|youchuu|developing larva|発育中の幼虫
 larvae_1|noun|幼虫|ようちゅう|youchuu|infective larvae|感染幼虫
 larval_1|adjective|幼虫|ようちゅう|youchuu|larval state|幼虫段階
 laryngeal_1|adjective|喉頭|こうとう|koutou|laryngeal disease|喉頭疾患
-LA_1|noun|ロサンゼルス|ろさんぜるす|rosanzerusu|live in LA|ロサンゼルスに住む
+la_1|noun|ロサンゼルス|ろさんぜるす|rosanzerusu|live in LA|ロサンゼルスに住む
 lab_1|noun|研究所|けんきゅうしょ|kenkyuujo|development lab|開発研究所
 label_1|noun|ラベル|らべる|raberu|safety label|安全ラベル
 labile_1|adjective|不安定|ふあんてい|fuantei|labile factor|不安定要素
@@ -771,7 +771,7 @@ utilitarian_2|adjective|功利主義的|こうりしゅぎてき|kourishugiteki|
 utility_1|adjective|実用|じつよう|jitsuyou|utility furniture|実用家具
 utility_2|noun|公益事業|こうえきじぎょう|kouekijigyou|gas utility|ガス公益事業
 utmost_1|adjective|最大|さいだい|saidai|utmost interest|最大の興味
-Utopia_1|noun|理想郷|りそうきょう|risoukyou|Jewish Utopia|ユダヤ人の理想郷
+utopia_1|noun|理想郷|りそうきょう|risoukyou|Jewish Utopia|ユダヤ人の理想郷
 asymmetry_1|noun|非対称|ひたいしょう|hitaishou|mass asymmetry|質量非対称
 asymptote_1|noun|漸近線|ぜんきんせん|zenkinsen|single atavism|単一漸近線
 asymptotic_1|adjective|漸近|ぜんきん|zenkin|asymptotic calculation|漸近計算
@@ -1036,8 +1036,8 @@ aforesaid_1|adjective|前述の|ぜんじゅつの|zenjutsuno|documents aforesai
 aforethought_1|noun|予謀|よぼう|yobou|with malice aforethought|予防の殺意を持って
 aforethought_2|adjective|故意|こい|koi|by aforethought|故意で
 austere_1|adjective|厳格|げんかく|genkaku|Her father was austere and rarely smiled.|彼女の父親は厳格でめったに笑わなかった。
-Australia_1|noun|オーストラリア|おーすとらりあ|oosutoraria|"Australia is called the ""land down under""."|オーストラリアは「地球の裏側の地」と呼ばれている。
-Australia_2|noun|豪州|ごうしゅう|goushuu|Australian Transaction Reports and Analysis Centre|豪州取引報告分析センター
+australia_1|noun|オーストラリア|おーすとらりあ|oosutoraria|"Australia is called the ""land down under""."|オーストラリアは「地球の裏側の地」と呼ばれている。
+australia_2|noun|豪州|ごうしゅう|goushuu|Australian Transaction Reports and Analysis Centre|豪州取引報告分析センター
 authentic_1|noun|本物|ほんもの|honmono|authentic and replicated works|本物と複製の作品
 authenticate_1|verb|認証する|にんしょうする|ninshō suru|authenticate user ID|ユーザーIDを認証する
 author_1|noun|著者|ちょしゃ|chosha|author of a new book|新刊書の著書
@@ -1093,7 +1093,7 @@ approximate_1|adjective|近似|きんじ|kinji|approximate control|近似制御
 approximately_1|adjective|およそ|およそ|oyoso|Approximately 200 people from more than 30 countries are expected to attend the summit.|世界30カ国以上からおよそ200人がこのサミットに参加すると予想されます。
 approximately_2|adverb|位|くらい|kurai|Approximately 100 people attended the lecture.|講義に100人くらいの参加者がいた。
 apricot_1|noun|アンズ|あんず|anzu|apricot jam|アンズジャム
-April_1|noun|四月|しがつ|shigatsu|April 7th, 2003 is Astro Boy's birthday.|2003年4月7日は鉄腕アトムの誕生日です。
+april_1|noun|四月|しがつ|shigatsu|April 7th, 2003 is Astro Boy's birthday.|2003年4月7日は鉄腕アトムの誕生日です。
 apron_1|noun|エプロン|えぷろん|epuron|flowered apron|花柄のエプロン
 apt_1|adjective|ふさわしい|ふさわしい|fusawashii|apt name for a boy|男の子にふさわしい名前
 aptitude_1|noun|適正|てきせい|tekisei|driving aptitude|運転適正
@@ -1151,7 +1151,7 @@ amply_1|adverb|十分に|じゅうぶんに|juubunni|amply demonstrated|十分�
 amulet_1|noun|魔よけ|まよけ|mayoke|The amulets are used as gifts when a baby is born, someone buys a new house or car, or someone starts a new business.|この魔よけは赤ちゃんが生まれるとき、新しい家や車を買うとき、新しい事業を始めるときに贈り物として使われます
 amulet_2|noun|護符|ごふ|gofu|At many temples, shrines and souvenir shops, there are a wide range of good luck charms and amulets available that are supposed to bring luck, long life and even help you pass your exams.|多くのお寺、神社、お土産店には、幸運や長寿をもたらしてくれたり、試験に合格させてくれたりするさまざまなお守りや護符が売られている
 amuse_1|verb|楽しませる|たのしませる|tanoshimaseru|amuse someone with a story|人を物語で楽しませる
-ANA_1|noun|全日空|ぜんにっくう|zennikkuu|ANA hotels|全日空ホテルチェーン
+ana_1|noun|全日空|ぜんにっくう|zennikkuu|ANA hotels|全日空ホテルチェーン
 anachronism_1|noun|時代錯誤|じだいさくご|jidaisakugo|constitutional anachronism|憲法における時代錯誤
 anachronism_2|noun|アナクロニズム|あなくろにずむ|anakuronizumu|obvious anachronism|明らかなアナクロニズム
 anachronistic_1|adjective|時代錯誤|じだいさくご|jidaisakugo|anachronistic custom|時代錯誤の習慣
@@ -1255,7 +1255,7 @@ abbot_1|noun|大修道院長|だいしゅうどういんちょう|daishuudouinch
 abbot_2|noun|修道院長|しゅうどういんちょう|shuudouinchou|mitred abbot|司教職修道院院長
 abbot_3|noun|修院長|しゅういんちょう|shuuinchou|talk to abbot|修院長と話す
 abbreviate_1|verb|短縮する|たんしゅく|tanchuku|abbreviate a phrase|語句を短縮する
-ABC_1|noun|甲乙丙|こうおつへい|kouotsuhei|ABC on one's report card|通知表の甲乙丙
+abc_1|noun|甲乙丙|こうおつへい|kouotsuhei|ABC on one's report card|通知表の甲乙丙
 abdicate_1|verb|放棄する|ほうき|houki|abdicate responsibility|責任を放棄する
 abdomen_1|noun|下腹|したばら|shitabara|over the lower abdomen|下腹全体に
 abdomen_2|noun|腹部|ふくぶ|fukubu|upper abdomen below his heart|心臓の下の上腹部
@@ -1335,7 +1335,7 @@ ashen_1|adjective|青白い|あおじろい|aojiroi|ashen cheek|青白い頬
 ashore_1|adverb|陸へ|りくへ|rikue|come ashore before sunset|日が沈む前に陸へ上がる
 ashtray_1|noun|灰皿|はいざら|haizara|clean an ashtray|灰皿をきれいにする
 ashy_1|adjective|灰色の|はいいろの|haiirono|ashy sky|灰色の空
-Asia_1|noun|アジア|あじあ|ajia|Asia is the continent with the largest population.|アジアは最大の人口を持つ大陸だ。
+asia_1|noun|アジア|あじあ|ajia|Asia is the continent with the largest population.|アジアは最大の人口を持つ大陸だ。
 alabaster_1|noun|石こう|せっこう|sekkou|as white as alabaster|石こうのように白い
 alacrity_1|noun|敏活|びんかつ|binkatsu|accept with alacrity|敏活に応じる
 alarm_1|noun|警笛|けいてき|keiteki|sound an alarm|警笛を鳴らす
@@ -1446,7 +1446,7 @@ air_4|noun|空気|くうき|kuuki|I should have known they would poison the air.
 air_5|noun|エア|えあ|ea|air cushion|エアクッション
 air_6|adjective|空中|くうちゅう|kuuchuu|air decoy missile|空中おとりミサイル
 air_7|adjective|エアー|えあー|ea-|Air Nippon|エアーニッポン
-Air-Force_1|noun|空軍|くうぐん|kuugun|air-force plane|空軍機
+air-force_1|noun|空軍|くうぐん|kuugun|air-force plane|空軍機
 air-pressure_1|noun|空気圧|くうきあつ|kuukiatsu|air pressure in a tire|タイヤの空気圧
 airborne_1|adjective|空挺|くうてい|kuutei|airborne operation|空挺作戦
 airborne_2|adjective|空気伝達|くうきでんたつ|kuukidentatsu|airborne molecule|空気伝達される分子
@@ -1972,7 +1972,7 @@ antagonism_4|noun|反対|はんたい|hantai|display a feeling of antagonism|反
 antagonism_5|noun|敵対|てきたい|tekitai|excite a feeling of antagonism|敵対する感情を引き起こす
 antagonist_1|noun|拮抗剤|きっこうざい|kikkouzai|dopamine antagonist|ドーパミン拮抗剤
 antagonistic_1|adjective|敵対|てきたい|tekitai|acknowledge an antagonistic relationship|敵対関係を認める
-Antarctic_1|noun|南極|なんきょく|nankyoku|Antarctic weather|南極の気候
+antarctic_1|noun|南極|なんきょく|nankyoku|Antarctic weather|南極の気候
 anteater_1|noun|アリクイ|ありくい|arikui|giant anteater|オオアリクイ
 antecedent_1|noun|前例|ぜんれい|zenrei|historical antecedent|歴史的前例
 antedate_1|verb|先行する|せんこう|senkou|antedate the appearance of cancer|癌の発症に先行する
@@ -2051,7 +2051,7 @@ augmentation_1|noun|増加|ぞうか|zouka|demand augmentation|需要増加
 augmentation_2|noun|増強|ぞうきょう|zoukyou|therapeutic augmentation|治療増強
 augmentation_3|noun|拡大|かくだい|kakudai|data augmentation|データ拡大
 augur_1|verb|前兆となる|ぜんちょうとなる|zenchoutonaru|augur well for the future of nation|国家の輝かしい未来の前兆となる
-August_1|noun|八月|はちがつ|hachigatsu|August is the worst month to buy an air-ticket.|八月は、一年で最も航空券が取り難い時期だ。
+august_1|noun|八月|はちがつ|hachigatsu|August is the worst month to buy an air-ticket.|八月は、一年で最も航空券が取り難い時期だ。
 aunt_1|noun|叔母|おば|oba|paternal aunt|父方の叔母
 auntie_1|noun|おばさん|おばさん|obasan|Uncles and Aunties|おじさんとおばさん
 aura_1|noun|オーラ|おーら|o-ra|aura of confidence|自信のオーラ
@@ -2110,10 +2110,10 @@ ambush_5|verb|迎え撃つ|むかえうつ|mukaeutsu|ambush an enemy|敵を迎�
 ameliorate_1|verb|改善する|かいぜん|kaizen|ameliorate anemia|貧血を改善する
 amen_1|noun|アーメン|あーめん|a-men|Amen corner|アーメンコーナー
 amend_1|verb|改定する|かいてい|kaitei|amend a law|法律を改定する
-America_1|noun|米国|べいこく|beikoku|make America safe|米国を安全にする
-America_2|noun|アメリカ|あめりか|amerika|America declared itself free from England over 200 years ago.|アメリカは200年以上前にイギリスからの離脱を宣言しました。
-American_1|noun|アメリカ人|あめりかじん|amerika-jin|a proud American|誇りを持ったアメリカ人
-American_2|adjective|アメリカの|あめりかの|amerika no|an American company|アメリカの会社
+america_1|noun|米国|べいこく|beikoku|make America safe|米国を安全にする
+america_2|noun|アメリカ|あめりか|amerika|America declared itself free from England over 200 years ago.|アメリカは200年以上前にイギリスからの離脱を宣言しました。
+american_1|noun|アメリカ人|あめりかじん|amerika-jin|a proud American|誇りを持ったアメリカ人
+american_2|adjective|アメリカの|あめりかの|amerika no|an American company|アメリカの会社
 americium_1|noun|アメリシウム|あめりしうむ|amerisiumu|americium oxide|酸化アメリシウム
 amethyst_1|noun|アメジスト|あめじすと|amejisuto|ring with an amethyst set in it|アメジストの付いた指輪
 amethyst_2|noun|紫水晶|むらさきすいしょう|murasakisuishou|beautiful amethyst|美しい紫水晶
@@ -2122,8 +2122,8 @@ amid_1|preposition|最中|さなか|sanaka|amid a deep recession|深刻な不況
 amidst_1|preposition|中で|なかで|nakade|amidst all the gloom|こんな悲惨な状況の中で
 amidst_2|preposition|うちに|うちに|uchini|amidst the applause|拍手喝采のうちに
 amidst_3|preposition|間に|あいだに|aidani|amidst an escalating trade war|次第に拡大する貿易戦争の真っ只中で
-Asian_1|adjective|アジアの|あじあの|ajia no|have Asian headquarters|アジアに拠点を持つ
-Asian_2|noun|アジア人|あじあじん|ajia-jin|There are many Asian students at our department.|私達の学部には多くのアジア人の学生がいる。
+asian_1|adjective|アジアの|あじあの|ajia no|have Asian headquarters|アジアに拠点を持つ
+asian_2|noun|アジア人|あじあじん|ajia-jin|There are many Asian students at our department.|私達の学部には多くのアジア人の学生がいる。
 aside_1|conjunction|さておき|さておき|sateoki|Joking aside…|冗談はさておき・・・
 asinine_1|adjective|愚かな|おろかな|orokana|asinine opinion|愚かな意見
 ask_1|verb|頼む|たのむ|tanomu|ask for a table by the window|窓側の席を頼む
@@ -2143,7 +2143,7 @@ aspirant_1|adjective|野心的|やしんてき|yashinteki|aspirant leader|野心
 aspirate_1|noun|吸引物|きゅういんぶつ|kyuuinbutsu|tracheal aspirate|気管吸引物
 aspire_1|verb|切望する|せつぼう|setsubou|aspire to attain fame|名誉を得たいと切望する
 aspire_2|verb|強く望む|つよくのぞむ|tsuyokunozomu|aspire to get married|結婚を強く望む
-Aspirin_1|noun|アスピリン|あすぴりん|asupirin|adult aspirin|成人用アスピリン
+aspirin_1|noun|アスピリン|あすぴりん|asupirin|adult aspirin|成人用アスピリン
 ass_1|noun|尻|しり|shiri|bite one's ass|尻にかみ付く
 assail_1|verb|襲撃する|しゅうげき|shuugeki|assail a fortress|要塞を襲撃する
 assailant_1|noun|襲撃者|しゅうげきしゃ|shuugekisha|unidentified assailant|正体不明の襲撃者
@@ -2500,7 +2500,7 @@ adhesive_1|noun|接着剤|せっちゃくざい|secchakuzai|adhesive constituent
 adiabatic_1|adjective|断熱|だんねつ|dannetsu|adiabatic compression|断熱圧縮
 afraid_1|adjective|怖い|こわい|kowai|afraid of riding an airplane|飛行機に乗るのが怖い
 afresh_1|adverb|最初から|さいしょから|saishokara|start afresh|最初からやり直す
-Afro_1|noun|アフロ|あふろ|afuro|Afro haircut|アフロヘア
+afro_1|noun|アフロ|あふろ|afuro|Afro haircut|アフロヘア
 aft_1|adjective|船尾|せんび|senbi|aft engine|船尾機関
 after_1|adverbial noun|後|あと|ato|After the Second World War, many countries faced hyperinflation.|第二次世界大戦の後、多くの国は超インフレに直面した。
 after-all_1|noun|つまり|つまり|tsumari|After all, the theater itself came out of a change.|つまり、歌舞伎座そのものが、変化のなかから生まれたのだ。
@@ -2660,7 +2660,7 @@ you_2|pronoun|君|きみ|kimi|You are my best friend.|君は僕の親友だよ�
 you_3|pronoun|貴方|あなた|anata|You have to bear the responsibility for this problem. (formal)|この問題の責任は貴方が負わなければなりません。
 you_4|pronoun|お前|おまえ|omae|Where do you think you're going? (very informal)|お前、どこに行くつもり？
 you-are-welcome_1|exclamation|どういたしまして|どういたしまして|dou itashimashite|"Always say ""you are welcome"" if somebody thanked you."|感謝されたらいつも「どういたしまして」と言わないと。
-You're-welcome_1|phrase|どういたしまして|どういたしまして|douitashimashite|You're welcome. It was fun.|どういたしまして。楽しかったよ。
+you're-welcome_1|phrase|どういたしまして|どういたしまして|douitashimashite|You're welcome. It was fun.|どういたしまして。楽しかったよ。
 young_1|adjective|若い|わかい|wakai|young wife|若い妻
 young_2|noun|青少年|せいしょうねん|seishounen|books for the young|青少年向けの本
 younger_1|prefix|若手～|わかて～|wakate~|a younger politician|若手政治家
@@ -2704,7 +2704,7 @@ yell_2|verb|怒鳴る|どなる|donaru|yell at someone to stop|人にやめろ�
 yellow_1|adjective|黄色|きいろ|kiiro|yellow bag|黄色い鞄
 yellowish_1|adjective|黄色っぽい|きいろっぽい|kiiroppoi|yellowish hair|黄色っぽい髪
 yelp_1|noun|鳴き声|なきごえ|nakigoe|joyous yelp of dog|犬の嬉しそうな鳴き声
-Yen_1|noun|円|えん|en|I paid 1500yen for the ticket.|そのチケットに1500円を払った。
+yen_1|noun|円|えん|en|I paid 1500yen for the ticket.|そのチケットに1500円を払った。
 yeoman_1|noun|ヨーマン|よーまん|yo-man|young yeoman|若いヨーマン
 yes_1|interjection|はい|はい|hai|Yes, we can go.|はい、行けます。
 yes_2|interjection|ええ|ええ|iie|Yes, you're right.|ええ、その通りです。
@@ -2955,8 +2955,8 @@ fraction_4|noun|フラクション|ふらくしょん|furakushon|eluted fraction
 fractious_1|adjective|手に負えない|てにおえない|tenioenai|fractious kids|手に負えない子供達
 fractious_2|adjective|気難しい|きむずかしい|kimuzukashii|fractious boss|気難しい上司
 fracture_1|noun|率|りつ|ritsu|fraction absorbed|吸収率
-Fragile_1|noun|割物注意|われものちゅうい|waremonochuui|Fragile sticker|割れ物注意のシール
-Fragile_2|adjective|壊れやすい|こわれやすい|kowareyasui|fragile goods|壊れやすいもの
+fragile_1|noun|割物注意|われものちゅうい|waremonochuui|Fragile sticker|割れ物注意のシール
+fragile_2|adjective|壊れやすい|こわれやすい|kowareyasui|fragile goods|壊れやすいもの
 fragment_1|noun|かけ|かけ|kake|tiny little fragment|小さな一かけ
 fragment_2|noun|断片|だんぺん|danpen|fragment size|断片サイズ
 fragment_3|noun|半端|はんぱ|hanpa|fragment number|半端数
@@ -2983,7 +2983,7 @@ framework_2|noun|枠内|わくない|wakunai|within the framework of internation
 framework_3|noun|フレームワーク|ふれーむわーく|fure-muwa-ku|framework design|フレームワークデザイン
 framework_4|noun|組立て|くみたて|kumitate|radical framework|基本の組立て
 franc_1|noun|フラン|ふらん|furan|exchange to Franc|フランに両替する
-France_1|noun|フランス|ふらんす|furansu|France is the only agriculturally self-sufficient country in Europe.|フランスはヨーロッパで農業的に自得自足できる唯一の国である。
+france_1|noun|フランス|ふらんす|furansu|France is the only agriculturally self-sufficient country in Europe.|フランスはヨーロッパで農業的に自得自足できる唯一の国である。
 franchise_1|noun|フランチャイズ|ふらんちゃいず|furanchaizu|franchise restaurant|フランチャイズ飲食店
 franchise_2|noun|参政権|さんせいけん|sanseiken|acquisition of franchise|参政権獲得
 franchise_3|noun|公民権|こうみんけん|kouminken|qualification for franchise|公民権の取得
@@ -3009,7 +3009,7 @@ fallible_1|adjective|当てにならない|あてにならない|ateninaranai|fa
 falling_1|noun|落下|らっか|rakka|the falling of stock prices|株価の落下
 fallout_1|noun|副産物|ふくさんぶつ|fukusanbutsu|toxic fallout|有毒の副産物
 fallow_1|noun|休閑|きゅうかん|kyuukan|long fallow|短期休閑
-FALSE_1|adjective|誤まった|あやまった|ayamatta|false impression|誤まった印象
+false_1|adjective|誤まった|あやまった|ayamatta|false impression|誤まった印象
 falsehood_1|noun|嘘|うそ|uso|palpable falsehood|見え透いた嘘
 falsify_1|noun|嘘|うそ|uso|truth or falsity|真実か嘘か
 falter_1|verb|ためらう|ためらう|tamerau|Now is not the time to falter.|今はためらう時ではない。
@@ -3046,7 +3046,7 @@ fabulous_1|adjective|素晴らしい|すばらしい|subarashii|have a fabulous 
 fabulous_2|adjective|素敵|すてき|suteki|She looks so fabulous|彼女はとても素敵に見える
 facade_1|noun|うわべ|うわべ|uwabe|penetrate someone's facade|人のうわべを見破る
 face_1|noun|顔|かお|kao|pale face|青白い顔
-Facebook_1|noun|フェースブック|ふぇーすぶっく|feesubukku|spend too much time on Facebook|長時間フェースブックを使う
+facebook_1|noun|フェースブック|ふぇーすぶっく|feesubukku|spend too much time on Facebook|長時間フェースブックを使う
 facet_1|noun|面|めん|men|theoretical facet|理論的面
 facetious_1|adjective|ふざけた|ふざけた|fuzaketa|facetious tone|ふざけた口調で
 facial_1|adjective|顔用|かおよう|kaoyou|facial cosmetic|顔用化粧品
@@ -3677,9 +3677,9 @@ freeze_5|verb|凍結する|とうけつ|touketsu|freeze at low temperatures|低�
 freeze_6|noun|静止|せいし|seishi|freeze function|静止ボタン
 freeze_7|verb|凍る|こおる|kōru|freeze at low temperatures|低温で凍る
 freight_1|noun|貨物|かもつ|kamotsu|freight charge|貨物輸送料
-French_1|noun|フランス人|ふらんすじん|furansu-jin|He originally is French, but he feels more at home in Italy.|彼は元々フランス人だが、イタリアでもっとくつろいだ気持ちになる。
-French_2|noun|フランス語|ふらんすご|furansu-go|French is one of the Romance languages.|フランス語はロマンス諸語の一つである。
-French_3|adjective|フランスの|ふらんすの|furansu no|a French wine|フランスのワイン
+french_1|noun|フランス人|ふらんすじん|furansu-jin|He originally is French, but he feels more at home in Italy.|彼は元々フランス人だが、イタリアでもっとくつろいだ気持ちになる。
+french_2|noun|フランス語|ふらんすご|furansu-go|French is one of the Romance languages.|フランス語はロマンス諸語の一つである。
+french_3|adjective|フランスの|ふらんすの|furansu no|a French wine|フランスのワイン
 frenetic_1|adjective|激しい|はげしい|hageshii|frenetic dance|激しい踊り
 frenzy_1|noun|狂暴|きょうぼう|kyoubou|in a frenzy|狂暴になって
 frenzy_2|adjective|狂乱|きょうらん|kyouran|media frenzy|マスコミの狂乱
@@ -3716,8 +3716,8 @@ friction_1|noun|摩擦|まさつ|masatsu|friction effect|摩擦効果
 friction_2|noun|不和|ふわ|fuwa|friction with her|彼女との不和
 friction_3|noun|あつれき|あつれき|atsureki|friction between the two countries|両国間のあつれき
 frictional_1|adjective|摩擦|まさつ|masatsu|frictional collision|摩擦衝突
-Friday_1|noun|金曜日|きんようび|kin'youbi|Where would you like to go this Friday?|今週の金曜日はどこに行きたい？
-Friday_2|noun|金曜|きんよう|kin'you|Friday mosque|金曜モスク
+friday_1|noun|金曜日|きんようび|kin'youbi|Where would you like to go this Friday?|今週の金曜日はどこに行きたい？
+friday_2|noun|金曜|きんよう|kin'you|Friday mosque|金曜モスク
 fridge_1|noun|冷蔵庫|れいぞうこ|reizouko|put the remained food into the fridge|残りの食べ物を冷蔵庫に入れる
 fried_1|adjective|から揚げ|からあげ|karaage|fried chicken|鳥のから揚げ
 fried_2|adjective|揚げ|あげ|age|fried donut|揚げドーナツ
@@ -4023,7 +4023,7 @@ feathery_1|adjective|羽のような|はねのような|hanenoyouna|feathery dre
 feature_1|noun|特徴|とくちょう|tokuchou|a significant feature of our time|現代の著しい特徴
 feature_2|noun|特色|とくしょく|tokushoku|feature classic styling|伝統的名スタイルを特色とする
 feature_3|noun|フィーチャー|ふぃーちゃー|fi-cha-|feature film|フィーチャーフィルム
-February_1|noun|二月|にがつ|nigatsu|February 11th is celebrated as National Foundation Day.|２月１１日は建国記念の日です。
+february_1|noun|二月|にがつ|nigatsu|February 11th is celebrated as National Foundation Day.|２月１１日は建国記念の日です。
 fecund_1|adjective|肥沃な|ひよくな|hiyokuna|fecund farmland|肥沃な土地
 fee_1|noun|料|りょう|ryou|admittance fee|入場料
 fee_2|noun|料金|りょうきん|ryoukin|fee for a passport application|パスポートの申請料金
@@ -4262,7 +4262,7 @@ musicology_1|noun|音楽学|おんがくがく|ongakugaku|show interest to music
 musk_1|noun|じゃ香|じゃこう|jakou|synthetic musk|合成じゃ香
 musket_1|noun|マスケット|ますけっと|masuketto|musket shot|マスケット弾
 muskrat_1|noun|ジャコウネズミ|じゃこうねずみ|jakounezumi|muskrat beaver|ジャコウネズミの毛皮
-Muslim_1|noun|イスラム教徒|いすらむきょうと|isuramukyouto|become a Muslim|イスラム教徒になる
+muslim_1|noun|イスラム教徒|いすらむきょうと|isuramukyouto|become a Muslim|イスラム教徒になる
 mussel_1|noun|ムール貝|むーるがい|mu-rugai|mussel dishes|ムール貝料理
 must_1|noun|必須|ひっす|hissu|It's a must item.|必須アイテムだ
 must_2|verbal auxiliary|違いない|ちがいない|chigainai|must have been plagiarized|盗作に違いない
@@ -4398,13 +4398,13 @@ machine_1|noun|機械|きかい|kikai|The machine is out of order.|この機械�
 machinery_1|adjective|機械|きかい|kikai|machinery industry|機械工業
 machismo_1|noun|男らしさ|おとこらしさ|otokorashisa|tradition of machismo|男らしさの伝統
 macho_1|adjective|男性的|だんせいてき|danseiteki|macho culture|男性的な文化
-Macintosh_1|noun|マッキントッシュ|まっきんとっしゅ|makkintosshu|The Macintosh is usually called the Mac .|マッキントッシュは通常マックと呼ばれている。
+macintosh_1|noun|マッキントッシュ|まっきんとっしゅ|makkintosshu|The Macintosh is usually called the Mac .|マッキントッシュは通常マックと呼ばれている。
 mackerel_1|noun|鯖|さば|saba|salted mackerel|塩鯖
 macro_1|noun|マクロ|まくろ|makuro|the body of the macro|マクロの本体
 macromolecule_1|noun|高分子|こうぶんし|koubunshi|informational macromolecule|情報高分子
 macrophage_1|noun|マクロファージ|まくろふぁーじ|makurofa-ji|cultured macrophage|培養マクロファージ
 macroscopic_1|adjective|巨視的|きょしてき|kyoshiteki|macroscopic change|巨視的変化
-Madam_1|noun|奥様|おくさま|okusama|Where would you like to have your dinner, Madam?|奥様、どちらで夕食をお召し上がりになられますか？
+madam_1|noun|奥様|おくさま|okusama|Where would you like to have your dinner, Madam?|奥様、どちらで夕食をお召し上がりになられますか？
 madcap_1|adjective|無鉄砲|むてっぽう|muteppou|madcap act|無鉄砲な行動
 madden_1|adjective|腹立たしい|はらだたしい|haradatashii|This is really maddening.|これは本当に腹立たしい。
 made_1|adjective|製|せい|sei|Chinese-made toy|中国製のおもちゃ
@@ -4481,7 +4481,7 @@ mettlesome_1|adjective|元気いっぱいの|げんきいっぱいの|genkiippai
 mezzo_1|adjective|メゾ|めぞ|mezo|mezzo piano|メゾピアノ
 miasmal_1|adjective|有害な|ゆうがいな|yuugaina|miasmal smoke|有害な煙
 mica_1|noun|雲母|うんも|unmo|black mica|黒雲母
-Michigan_1|noun|ミシガン|みしがん|mishigan|Michigan state|ミシガン州
+michigan_1|noun|ミシガン|みしがん|mishigan|Michigan state|ミシガン州
 micro_1|noun|マイクロ|まいくろ|maikuro|micro joint|マイクロ接合
 micro_2|noun|微細|びさい|bisai|micro oxidation|微細酸化
 micro_3|noun|ミクロ|みくろ|mikuro|micro theory|ミクロ理論
@@ -4669,9 +4669,9 @@ movie_1|noun|映画|えいが|eiga|favorite movie|お気に入りの映画
 movie_2|noun|ムービー|むーびー|mu-bi-|movie channel|ムービーチャンネル
 movies_1|noun|映画館|えいがかん|eigakan|have a date at the movies|映画館でデートする
 moving_1|noun|引越し|ひっこし|hikkoshi|moving expenses|引越し費用
-Mr._1|suffix|～さん|～さん|~san|Mr. Yamada, come to the phone please. (formal)|山田さん、お電話です。
-Mr._2|suffix|～様|～さま|~sama|I have received all the information from Mr. Suzuki. (very formal)|鈴木様から全ての情報を頂きました。
-Mr._3|suffix|～氏|～し|~shi|Mr. Wilson also contributed significantly to international peace.|ウィルソン氏は更に国際平和に大きく貢献した。
+mr._1|suffix|～さん|～さん|~san|Mr. Yamada, come to the phone please. (formal)|山田さん、お電話です。
+mr._2|suffix|～様|～さま|~sama|I have received all the information from Mr. Suzuki. (very formal)|鈴木様から全ての情報を頂きました。
+mr._3|suffix|～氏|～し|~shi|Mr. Wilson also contributed significantly to international peace.|ウィルソン氏は更に国際平和に大きく貢献した。
 much_1|adverb|もっと|もっと|motto|much faster|もっと速く
 much_2|adjective|あまり|あまり|amari|I don't have much time.|あまり時間がありません。
 much_3|adjective|たくさん|たくさん|takusan|much snow|たくさん積もる雪
@@ -4897,7 +4897,7 @@ midwife_2|noun|助産師|じょさんし|josansi|professional midwife|職業助�
 midwife_3|noun|助産婦|じょさんぷ|josanpu|serve as midwife|助産婦として働く
 midwinter_1|noun|真冬|まふゆ|mafuyu|at midwinter|真冬に
 mien_1|noun|表情|ひょうじょう|hyoujou|serious mien|真剣な表情
-MIG_1|noun|ミグ|みぐ|migu|MIG spot welding|ミグ・スポット溶接
+mig_1|noun|ミグ|みぐ|migu|MIG spot welding|ミグ・スポット溶接
 might_1|noun|力|ちから|chikara|might of the dollar|ドルの力
 might_2|noun|勢力|せいりょく|seiryoku|might of nation|国の勢力
 might_3|noun|威力|いりょく|iryoku|might of the dollar|ドルの威力
@@ -4988,7 +4988,7 @@ morose_2|adjective|むっつり|むっつり|muttsuri|morose look|むっつり�
 morpheme_1|noun|形態素|けいたいそ|keitaiso|morpheme class|形態素類
 morphine_1|noun|モルヒネ|もるひね|moruhine|morphine poisoning|モルヒネ中毒
 morphology_1|noun|形態|けいたい|keitai|classic morphology|古典的形態
-Morris_1|noun|モリス|もりす|morisu|Morris chair|モリス・チェア
+morris_1|noun|モリス|もりす|morisu|Morris chair|モリス・チェア
 morsel_1|adjective|一口分の|ひとくちぶんの|hitokuchibunno|morsel of food|一口分の食べ物
 mortal_1|adjective|命にかかわる|いのちにかかわる|inochinikakawaru|mortal danger|命にかかわる危険
 mortar_1|noun|乳鉢|にゅうはち|nyuuhachi|by mortar|乳鉢で
@@ -5120,7 +5120,7 @@ module_1|noun|モジュール|もじゅーる|moju-ru|module installation|モジ
 modulo_1|adverb|モジュロ|もじゅろ|mojuro|modulo operation|モジュロ演算
 modulus_1|noun|率|りつ|ritsu|compressive modulus|圧縮率
 moiety_1|noun|部分|ぶぶん|bubun|central moiety|中心部分
-Moire_1|noun|モアレ|もあれ|moare|Moire effect|モアレ効果
+moire_1|noun|モアレ|もあれ|moare|Moire effect|モアレ効果
 moist_1|adjective|湿った|しめった|shimetta|moist cloth|湿った布
 moisten_1|verb|湿らす|しめらす|shimerasu|moisten someone's mouth|人の口を湿らす
 moisten_2|verb|濡らす|ぬらす|nurasu|moisten a towel|タオルを濡らす
@@ -5175,8 +5175,8 @@ monastery_1|noun|修道院|しゅうどういん|shuudouin|found a monastery in 
 monastery_2|noun|僧院|そういん|souin|Buddhist monastery|仏教の僧院
 monastic_1|adjective|修道院|しゅうどういん|shuudouin|monastic culture|修道院文化
 monaural_1|adjective|モノラル|ものらる|monoraru|monaural signal|モノラル信号
-Monday_1|noun|月曜|げつよう|getsuyou|Monday morning is always hectic.|月曜の朝はいつもてんてこ舞いだ。
-Monday_2|noun|月曜日|げつようび|getsuyoubi|Monday through Friday|月曜日から金曜日まで
+monday_1|noun|月曜|げつよう|getsuyou|Monday morning is always hectic.|月曜の朝はいつもてんてこ舞いだ。
+monday_2|noun|月曜日|げつようび|getsuyoubi|Monday through Friday|月曜日から金曜日まで
 monetarism_1|noun|マネタリズム|まねたりずむ|manetarizumu|modern monetarism|現代のマネタリズム
 monetary_1|adjective|金銭的|きんせんてき|kinsenteki|monetary contribution|金銭的貢献
 monetary_2|adjective|財政|ざいせい|zaisei|monetary difficulties|財政困難
@@ -5534,8 +5534,8 @@ wattle_1|noun|アカシア|あかしあ|akashia|silver wattle|フサアカシア
 wedding_1|noun|結婚式|けっこんしき|kekkonshiki|make a toast at the wedding|結婚式で祝杯を挙げる
 wedge_1|noun|くさび|くさび|kusabi|insert a wedge|くさびを入れる
 wedlock_1|noun|結婚生活|けっこんせいかつ|kekkonseikatsu|happy wedlock|幸せな結婚生活
-Wednesday_1|noun|水曜日|すいようび|suiyoubi|have every Wednesday off|毎週水曜日が休みである
-Wednesday_2|noun|水曜|すいよう|suiyou|Wednesday afternoon|水曜の午後
+wednesday_1|noun|水曜日|すいようび|suiyoubi|have every Wednesday off|毎週水曜日が休みである
+wednesday_2|noun|水曜|すいよう|suiyou|Wednesday afternoon|水曜の午後
 weed_1|noun|雑草|ざっそう|zassou|summer weed|夏雑草
 weedy_1|adjective|雑草の多い|ざっそうのおおい|zassounoooi|weedy garden|雑草だらけの庭
 week_1|noun|週|しゅう|shuu|week ago Thursday|先週の木曜日
@@ -6024,7 +6024,7 @@ weatherstrip_2|verb|隙間を防ぐ|すきまをふさぐ|sukimawofusagu|weather
 weave_1|verb|織る|おる|oru|weave a rug|敷物を織る
 web_1|noun|巣|す|su|spider web|蜘蛛の巣
 web_2|noun|ウェブ|うぇぶ|webu|wireless web|ワイヤレス･ウェブ
-Weber_1|noun|ウェーバー|うぇーばー|we-ba-|Weber's law|ウェーバーの法則
+weber_1|noun|ウェーバー|うぇーばー|we-ba-|Weber's law|ウェーバーの法則
 wed_1|verb|結婚する|けっこん|kekkon|wed one's schoolmate|級友と結婚する
 ransack_1|verb|荒らし回る|あらしまわる|arashimawaru|ransack shops|店を荒らし回る
 ransom_1|noun|身代金|みのしろきん|minoshirokin|mighty ransom|莫大な身代金
@@ -6843,7 +6843,7 @@ remove_1|verb|取り除く|とりのぞく|torinozoku|remove the bones from a fi
 remove_2|verb|脱ぐ|ぬぐ|nugu|remove one's jacket|上着を脱ぐ
 remove_3|verb|取り去る|とりさる|torisaru|remove obstacles|妨げるものを取り去る
 remunerate_1|verb|報いる|むくいる|mukuiru|remunerate someone's effort|人の努力に報いる
-Renaissance_1|noun|ルネサンス|るねさんす|runesansu|modern renaissance|近代ルネサンス
+renaissance_1|noun|ルネサンス|るねさんす|runesansu|modern renaissance|近代ルネサンス
 renal_1|adjective|腎臓の|じんぞうの|jinzouno|renal complication|腎臓の合併症
 rendezvous_1|noun|待ち合わせ場所|まちあわせばしょ|machiawasebasho|popular rendezvous|人気のある待ち合わせ場所
 rendition_1|noun|演奏|えんそう|ensou|powerful rendition|力強い演奏
@@ -7060,7 +7060,7 @@ sash_1|noun|サッシ|さっし|sasshi|window sash|窓サッシ
 sashay_1|verb|さっそうと歩く|さっそうとあるく|sassoutoaruku|sashay through a department store|デパートの中をさっそうと歩く
 sashimi_1|noun|刺身|さしみ|sashimi|You shouldn't give sashimi to children younger than 3 years.|3歳以下の子供に刺身を食べさせないほうがいい。
 sassafras_1|noun|ササフラス|ささふらす|sasafurasu|sassafras tea|ササフラス茶
-Satan_1|noun|悪魔|あくま|akuma|act of Satan|悪魔の行為
+satan_1|noun|悪魔|あくま|akuma|act of Satan|悪魔の行為
 satanic_1|adjective|悪魔のような|あくまのような|akumanoyouna|in a satanic voice|悪魔のような声で
 satellite_1|noun|衛星|えいせい|eisei|military satellite|軍事衛星
 scalar_1|adjective|スカラー|すからー|sukara-|scalar electrodynamics|スカラー心電図
@@ -7166,8 +7166,8 @@ sun_1|noun|太陽|たいよう|taiyou|look into the sun|太陽をじっと見る
 sunbeam_1|noun|日光|にっこう|nikkou|The sunbeam acts upon the skin.|日光は肌に作用する。
 sunburn_1|noun|日焼け|ひやけ|hiyake|severe sunburn|重度の日焼け
 sunburnt_1|adjective|日焼けした|ひやけした|hiyakeshita|sunburnt skin|日焼けした肌
-Sunday_1|noun|日曜日|にちようび|nichiyoubi|Sunday next week|来週の日曜日
-Sunday_2|noun|日曜|にちよう|nichiyou|Sunday edition|日曜版
+sunday_1|noun|日曜日|にちようび|nichiyoubi|Sunday next week|来週の日曜日
+sunday_2|noun|日曜|にちよう|nichiyou|Sunday edition|日曜版
 sundial_1|noun|日時計|ひどけい|hidokei|equatorial sundial|赤道儀式日時計
 sundown_1|noun|日没|にちぼつ|nichibotsu|retire at sundown|日没とともに寝る
 sundry_1|adjective|様々な|さまざまな|samazamana|sundry desires|様々な欲望
@@ -7310,7 +7310,7 @@ southwestern_1|adjective|南西|なんせい|nansei|southwestern Siberia|南西�
 souvenir_1|noun|土産|みやげ|miyage|as a souvenir of one's trip|旅の土産に
 sovereign_1|noun|主権|しゅけん|shuken|foreign sovereign|外国主権
 sovereignty_1|noun|主権|しゅけん|shuken|sovereignty of the people|国民主権
-Soviet_1|noun|ソビエト|そびえと|sobieto|Soviet troops|ソビエト軍
+soviet_1|noun|ソビエト|そびえと|sobieto|Soviet troops|ソビエト軍
 sow_1|noun|雌豚|めすぶた|mesubuta|pregnant sow|妊娠した雌豚
 sow_2|verb|種を撒く|たねをまく|tane o maku|sow seed by hand|手で種を撒く
 soy_1|noun|大豆|だいず|daizu|soy intolerance|大豆アレルギー
@@ -7592,7 +7592,7 @@ spurious_3|adjective|誤った|あやまった|ayamatta|spurious discussion|誤�
 spurn_1|verb|拒む|こばむ|kobamu|spurn the possibility|可能性を拒む
 spurn_2|verb|きっぱり拒絶する|きっぱりきょぜつする|kipparikyozetsusuru|spurn an offer|申し出をきっぱり拒絶する
 spurt_1|noun|高騰|こうとう|koutou|spurt in oil price|石油価格の高騰
-Sputnik_1|noun|スプートニク|すぷーとにく|supu-toniku|Sputnik I|スプートニク１号
+sputnik_1|noun|スプートニク|すぷーとにく|supu-toniku|Sputnik I|スプートニク１号
 sputter_1|verb|早口に言う|はやくちにいう|hayakuchi ni iu|sputter in surprise|驚いて早口に言う
 spy_1|noun|スパイ|すぱい|supai|execute someone as a spy|人をスパイとして処刑する
 spyglass_1|noun|見張り望遠鏡|みはりぼうえんきょう|miharibouenkyou|beside a spyglass|見張り望遠鏡のそばで
@@ -7879,7 +7879,7 @@ separate_4|verb|分離する|ぶんり|bunri|separate alcohol from water|水か�
 separate_5|adjective|異なる|ことなる|kotonaru|This word has five separate meanings.|この単語には5つの異なる意味がある。
 separate_6|adjective|別々|べつべつ|betsubetsu|separate bill|別々の勘定書
 sepia_1|noun|セピア|せぴあ|sepia|apply effects such as monotone and sepia|モノトーンやセピアなどの効果をかける
-September_1|noun|九月|くがつ|kugatsu|September 15th is Aged People's Day in Japan.|９月１５日は日本では敬老の日です。
+september_1|noun|九月|くがつ|kugatsu|September 15th is Aged People's Day in Japan.|９月１５日は日本では敬老の日です。
 septic_1|adjective|敗血症性|はいけつしょうせい|haiketsushousei|septic peritonitis|敗血症性腹膜炎
 septuagenarian_1|noun|70歳代の人|ななじゅうだいのひと|nanajuudainohito|group of septuagenarians|70歳代の人の集まり
 septum_1|noun|中隔|ちゅうかく|chuukaku|septum of nose|鼻中隔
@@ -7977,7 +7977,7 @@ seminal_2|adjective|精子|せいし|seishi|seminal protein|精子タンパク
 seminar_1|noun|セミナー|せみなー|semina-|seminar for individuals|個人向けのセミナー
 seminar_2|noun|ゼミ|ぜみ|zemi|introduction seminar|導入ゼミ
 seminary_1|noun|神学校|しんがっこう|shingakkou|Islamic seminary|イスラム神学校
-Senate_1|noun|上院|じょういん|jouin|sense of the Senate|上院の意見
+senate_1|noun|上院|じょういん|jouin|sense of the Senate|上院の意見
 senator_1|noun|上院議員|じょういんぎいん|jouingiin|former senator|元上院議員
 send_1|verb|送る|おくる|okuru|send a gift|贈り物を送る
 send_2|verb|発送する|はっそう|hassou|He sent the package by airmail to Europe.|彼は小包をヨーロッパへ航空便で発送した。
@@ -8034,9 +8034,9 @@ span_1|noun|範囲|はんい|han'i|span of temperature|温度範囲
 span_2|noun|期間|きかん|kikan|have a very short memory span|ごく短い期間の記憶しか持っていない
 spangle_1|noun|スパンコール|すぱんこーる|supanko-ru|dress with spangle|スパンコールのドレス
 spaniel_1|noun|スパニエル|すぱにえる|supanieru|Welsh springer spaniel|ウェルシュスプリンガースパニエル
-Spanish_1|noun|スペイン人|すぺいんじん|supein-jin|She looks Spanish, but in fact she's from South Asia.|彼女はスペイン人に見えるけど、本当は南アジア出身だ。
-Spanish_2|noun|スペイン語|すぺいんご|supein-go|Spanish is the common language in Latin America.|スペイン語はラテンアメリカの共通語である。
-Spanish_3|adjective|スペインの|すぺいんの|supein no|enjoy the Spanish summer|スペインの夏を楽しむ
+spanish_1|noun|スペイン人|すぺいんじん|supein-jin|She looks Spanish, but in fact she's from South Asia.|彼女はスペイン人に見えるけど、本当は南アジア出身だ。
+spanish_2|noun|スペイン語|すぺいんご|supein-go|Spanish is the common language in Latin America.|スペイン語はラテンアメリカの共通語である。
+spanish_3|adjective|スペインの|すぺいんの|supein no|enjoy the Spanish summer|スペインの夏を楽しむ
 spare_1|adjective|予備|よび|yobi|spare machine|予備機械
 spare_2|verb|割く|さく|saku|spare some time for one's daughter|娘のために時間を割く
 spark_1|verb|引き起こす|ひきおこす|hikiokosu|spark a revolution|革命を引き起こす
@@ -8198,7 +8198,7 @@ scorn_1|verb|あざ笑う|あざわらう|azawarau|scorn the silly political bri
 scorn_2|noun|冷笑|れいしょう|reishou|become a target of scorn|冷笑の的になる
 scorn_3|noun|軽蔑|けいべつ|keibetsu|bitter scorn|ひどい軽蔑
 scorpion_1|noun|サソリ|さそり|sasori|pet scorpion|ペットのサソリ
-Scotch_1|noun|スコッチ|すこっち|sukocchi|Scotch egg|スコッチ・エッグ
+scotch_1|noun|スコッチ|すこっち|sukocchi|Scotch egg|スコッチ・エッグ
 scoundrel_1|noun|ろくでなし|ろくでなし|rokudenashi|worthless scoundrel|役立たずのろくでなし
 scoundrel_2|noun|悪党|あくとう|akutou|vile scoundrel|卑しい悪党
 scour_1|verb|探し回る|さがしまわる|sagashimawaru|scour neighborhoods|近所を探し回る
@@ -8449,7 +8449,7 @@ surround_1|verb|囲む|かこむ|kakomu|surround an image with a frame|画像を
 surtax_1|noun|付加税|ふかぜい|fukazei|impose a surtax|付加税を課す
 survey_1|verb|調査する|ちょうさ|chousa|survey a site|現場を調査する
 survey_2|noun|調査|ちょうさ|chousa|energy survey|エネルギー調査
-Surveyor_1|noun|測量士|そくりょうし|sokuryoushi|independent surveyor|独立測量士
+surveyor_1|noun|測量士|そくりょうし|sokuryoushi|independent surveyor|独立測量士
 survival_1|noun|生存|せいぞん|seizon|jeopardize the survival of the human race|人類の生存を脅かす
 survive_1|verb|生き延びる|いきのびる|ikinobiru|survive a plane crash|飛行機事故で生き延びる
 survive_2|verb|生きていく|いきていく|ikiteiku|work to survive|生きていくために働く
@@ -8549,7 +8549,7 @@ script_2|noun|文字|もじ|moji|pictographic script|絵文字
 script_3|noun|脚本|きゃくほん|kyakuhon|well-written script|よく書けた脚本
 script_4|noun|スクリプト|すくりぷと|sukuriputo|lecture script|講義スクリプト
 script_5|noun|台本|だいほん|daihon|movie script|映画の台本
-Scripture_1|noun|聖書|せいしょ|seisho|quote scripture|聖書を引用する
+scripture_1|noun|聖書|せいしょ|seisho|quote scripture|聖書を引用する
 scroll_1|verb|スクロールする|すくろーる|sukuro-ru|scroll left to right|左から右へスクロールする
 scroll_2|noun|スクロール|すくろーる|sukuro-ru|software scroll|ソフトウェア・スクロール
 scroll_3|noun|巻物|まきもの|makimono|picture scroll|絵巻物
@@ -9056,7 +9056,7 @@ sphere_1|noun|範囲|はんい|han'i|sphere of interest|関心の範囲
 spheric_1|adjective|球面の|きゅうめんの|kyuumenno|spheric motion|球面運動
 spheroid_1|noun|回転楕円体|かいてんだえんたい|kaitendaentai|spheroidal weathering|球状風化
 spheroidal_1|adjective|球状|きゅうじょう|kyuujou|spheroidal weathering|球状風化
-Sphinx_1|noun|スフィンクス|すふぃんくす|sufinkusu|visit the Sphinx|スフィンクスを訪れる
+sphinx_1|noun|スフィンクス|すふぃんくす|sufinkusu|visit the Sphinx|スフィンクスを訪れる
 spice_1|noun|スパイス|すぱいす|supaisu|add spice to food|料理にスパイスを加える
 spice_2|noun|香辛料|こうしんりょう|koushinryou|powerful spice|香りの強い香辛料
 spicy_1|adjective|辛い|からい|karai|I like spicy food.|私は辛い食べ物が好きです。
@@ -9568,7 +9568,7 @@ stockroom_1|noun|商品倉庫|しょうひんそうこ|shouhinsouko|keep product
 stocky_1|adjective|ずんぐりした|ずんぐりした|zungurishita|stocky build|ずんぐりした体型
 stodgy_1|adjective|活気のない|かっきのない|kakkinonai|stodgy town|活気のない町
 stodgy_2|adjective|重苦しい|おもくるしい|omokurushii|stodgy atmonphere|重苦しい雰囲気
-Stoic_1|noun|ストア哲学|すとあてつがく|sutoatetsugaku|Stoic view|ストア哲学の考え方
+stoic_1|noun|ストア哲学|すとあてつがく|sutoatetsugaku|Stoic view|ストア哲学の考え方
 stoichiometry_1|noun|化学量論|かがくりょうろん|kagakuryouron|ecological stoichiometry|生物学的化学量論
 stoke_1|verb|燃料をくべる|ねんりょうをくべる|nenryouwokuberu|stoke a furnace|かまに燃料をくべる
 stole_1|noun|ストール|すとーる|suto-ru|hand-knitted stole|手編みのストール
@@ -9820,8 +9820,8 @@ satisfactory_5|adjective|良好|りょうこう|ryoukou|if everything is satisfa
 satisfactory_6|adjective|満足|まんぞく|manzoku|satisfactory answer|満足な答え
 satisfy_1|verb|満たす|みたす|mitasu|satisfy customer demands|顧客の要求を満たす
 saturable_1|adjective|飽和できる|ほうわできる|houwadekiru|saturable component|飽和成分
-Saturday_1|noun|土曜|どよう|doyou|Saturday night|土曜の夜
-Saturday_2|noun|土曜日|どようび|doyoubi|Saturday is regular trash day,|土曜日が普通ごみの収集日です。
+saturday_1|noun|土曜|どよう|doyou|Saturday night|土曜の夜
+saturday_2|noun|土曜日|どようび|doyoubi|Saturday is regular trash day,|土曜日が普通ごみの収集日です。
 saturnine_1|adjective|不機嫌な|ふきげんな|fukigenna|saturnine teacher|不機嫌な教師
 satyr_1|noun|サテュロス|さてゅろす|satyurosu|satyr play|サテュロス劇
 sauce_1|noun|ソース|そーす|so-su|add sauce to pasta|パスタにソースをかける
@@ -10464,7 +10464,7 @@ detour_3|noun|回り道|まわりみち|mawarimichi|make a slight detour|ちょ�
 detract_1|verb|損ねる|そこねる|sokoneru|detract from quality of life|生活の質を損ねる
 detriment_1|noun|障害|しょうがい|shougai|radiation detriment|放射線障害
 deuce_1|noun|ジュース|じゅーす|ju-su|deuce game|ジュースゲーム
-Deus_1|noun|デウス|デウス|deusu|Christian God has been called as 'Deus' among Christians since then.|以後、キリシタンの間でキリスト教の神は「デウス」と呼ばれるようになった
+deus_1|noun|デウス|デウス|deusu|Christian God has been called as 'Deus' among Christians since then.|以後、キリシタンの間でキリスト教の神は「デウス」と呼ばれるようになった
 deuterium_1|noun|重水素|じゅうすいそ|juusuiso|deuterium atom|重水素原子
 devastate_1|verb|破壊する|はかい|hakaiteki|devastate the nation's economy|国の経済を破壊させる
 devastate_2|verb|荒廃させる|こうはいさせる|kouhaisaseru|devastate the country in 60 days|60日間でその国を荒廃させる
@@ -11203,7 +11203,7 @@ despotic_1|adjective|圧政的|あっせいてき|asseiteki|despotic society|圧
 dessert_1|noun|デザート|でざーと|deza-to|include dessert and drink|デザート飲み物が付いている
 dessert_2|noun|おやつ|おやつ|oyatsu|decide against dessert|おやつは食べない事にする
 destination_1|noun|目的地|もくてきち|mokutekichi|arrive to her destination|目的地に到着する
-December_1|noun|十二月|じゅうにがつ|juunigatsu|December 10th is Human Rights Day.|12月10日は「世界人権デー」です.
+december_1|noun|十二月|じゅうにがつ|juunigatsu|December 10th is Human Rights Day.|12月10日は「世界人権デー」です.
 decent_1|adjective|気の利いた|きのきいた|kinokiita|decent service|気の利いたサービス
 decent_2|adjective|礼儀正しい|れいぎただしい|reigitadashii|decent behavior|礼儀正しい態度
 decent_3|adjective|かなりの|かなりの|kanarino|decent economic growth|かなりの経済成長
@@ -11515,7 +11515,7 @@ gregarious_1|adjective|社交的|しゃこうてき|shakouteki|gregarious person
 gregarious_2|adjective|群生|ぐんせい|gunsei|gregarious insect|群生昆虫
 grenade_1|noun|手榴弾|しゅりゅうだん|shuryuudan|defensive grenade|防御用手榴弾
 grey_1|adjective|灰色|はいいろ|haiiro|grey dust|灰色の埃
-Greyhound_1|noun|グレーハウンド|ぐれーはうんど|gure-haundo|Italian greyhound|イタリアン・グレーハウンド
+greyhound_1|noun|グレーハウンド|ぐれーはうんど|gure-haundo|Italian greyhound|イタリアン・グレーハウンド
 grid_1|noun|格子|こうし|koushi|plane grid|平面格子
 griddle_1|noun|フライパン|ふらいぱん|furaipan|metal griddle|金属フライパン
 gridiron_1|adjective|格子状|こうしじょう|koushijou|gridiron road|格子状道路
@@ -11653,7 +11653,7 @@ gob_1|noun|塊|かたまり|katamari|glass gob|ガラスの塊
 gobble_1|verb|ガツガツ食べる|がつがつたべる|gatsugatsutaberu|gobble like a hog|豚のようにガツガツ食べる
 gobbledygook_1|noun|訳の分からない言葉|わけのわからないことば|wakenowakaranai|incomprehensible gobbledygook|理解不能なわけの訳の分からない言葉
 goblet_1|noun|ゴブレット|ごぶれっと|goburetto|covered goblet|蓋つきゴブレット
-God_1|noun|神|かみ|kami|God is above all.|神は、至高の存在。
+god_1|noun|神|かみ|kami|God is above all.|神は、至高の存在。
 goddess_1|noun|女神|めがみ|megami|goddess of the moon|月の女神
 godfather_1|noun|教父|きょうふ|kyoufu|stand godfather to a child|子供の教父となる
 godhead_1|noun|神|かみ|kami|three persons of the Godhead|神の三位
@@ -11677,7 +11677,7 @@ good_4|exclamation|よし|よし|yoshi|Good, just keep going like this.|よし�
 good_5|adjective|いい|いい|ii|Good question.|いい質問ですね。
 good_6|adjective|ろくな|ろくな|roku na|Nothing good will come out of this. (usually negative)|これはろくなことにならないぞ。
 good-afternoon_1|exclamation|こんにちは|こんにちは|konnichiwa|Good afternoon, everyone. What have you done today?|皆さん、こんにちは。今日は何をしましたか？
-Good-day_1|phrase|バイバイ|ばいばい|baibai|Good day! See you around.|バイバイ！またね。
+good-day_1|phrase|バイバイ|ばいばい|baibai|Good day! See you around.|バイバイ！またね。
 good-evening_1|exclamation|こんばんは|こんばんは|konbanwa|"""Good evening"" is usually used after 5PM."|「今晩は」は通常午後５時から使われている。
 good-job_1|exclamation|よくできました|よくできました|yoku dekimashita|Good job! How about the next question?|よくできました！次の質問はどうでしょう？
 good-luck_1|phrase|頑張って|がんばって|ganbatte|Good luck with your new project!|新しいプロジェクトは頑張ってください。
@@ -11736,7 +11736,7 @@ gymnast_2|adjective|体操|たいそう|taisou|gymnastic instrument|体操器具
 gymnastic_1|adjective|たいいく|たいいく|taiiku|gymnastic hall|体育館
 gyp_1|verb|騙し取る|だましとる|damashitoru|gyp a person out of one's money|人から金を騙し取る
 gypsum_1|noun|石こう|せっこう|sekkou|foamed gypsum|発泡石こう
-Gypsy_1|noun|ジプシー|じぷしー|jipushi-|live like Gypsy|ジプシーのように生きる
+gypsy_1|noun|ジプシー|じぷしー|jipushi-|live like Gypsy|ジプシーのように生きる
 gyrate_1|verb|旋回する|せんかい|senkai|gyrate underneath the water|水中で旋回する
 gyrfalcon_1|noun|シロハヤブサ|しろはやぶさ|shirohayabusa|large gyrfalcon|大型のシロハヤブサ
 gyro_1|noun|ジャイロ|じゃいろ|jairo|vertical gyro|垂直ジャイロ
@@ -11874,7 +11874,7 @@ graphite_1|noun|黒鉛|こくえん|kokuen|exfoliated graphite|膨張黒鉛
 grapple_1|verb|取り組む|とりくむ|torikumu|grapple with difficult issues|難しい問題に取り組む
 generosity_1|noun|寛大さ|かんだいさ|kandaisa|boundless generosity|限りない寛大さ
 generous_1|adjective|寛大|かんだい|kandai|generous donation|寛大な寄付
-Genesis_1|noun|起源|きげん|kigen|historical genesis|歴史的起源
+genesis_1|noun|起源|きげん|kigen|historical genesis|歴史的起源
 genetic_1|adjective|遺伝的|いでんてき|identeki|genetic determination|遺伝的決定
 genial_1|adjective|穏やか|おだやか|odayaka|genial sunshine|穏やかな日差し
 genius_1|noun|天才|てんさい|tensai|latent genius|潜在的な天才
@@ -11900,9 +11900,9 @@ geophysics_1|noun|地球物理学|ちきゅうぶつりがく|chikyuubutsurigaku
 geriatric_1|noun|高齢者|こうれいしゃ|koureisha|sick geriatric|病気の高齢者
 geriatric_2|adjective|高齢者|こうれいしゃよう|koureishayou|geriatric clinic|高齢者用医療機関
 germ_1|noun|菌|きん|kin|transfer the germ to someone else|細菌を他人に移す
-German_1|noun|ドイツ人|どいつじん|doitsu-jin|My new supervisor is German.|私の新しい指導教官はドイツ人だ。
-German_2|noun|ドイツ語|どいつご|doitsu-go|German greatly influenced English.|ドイツ語は英語に大きな影響を及ぼした。
-German_3|adjective|ドイツの|どいつの|doitsu no|German cars are very reliable.|ドイツの自動車はとても信頼できる。
+german_1|noun|ドイツ人|どいつじん|doitsu-jin|My new supervisor is German.|私の新しい指導教官はドイツ人だ。
+german_2|noun|ドイツ語|どいつご|doitsu-go|German greatly influenced English.|ドイツ語は英語に大きな影響を及ぼした。
+german_3|adjective|ドイツの|どいつの|doitsu no|German cars are very reliable.|ドイツの自動車はとても信頼できる。
 germane_1|adjective|ゲルマン|げるまん|geruman|germane molecule|ゲルマン分子
 germanium_1|noun|ゲルマニウム|げるまにうむ|gerumaniumu|pure germanium|純ゲルマニウム
 germicidal_1|adjective|殺菌|さっきん|sakkin|germicidal treatment|殺菌処理
@@ -11916,7 +11916,7 @@ tapestry_1|noun|タペストリー|たぺすとりー|tapesutori-|beautiful tape
 tapeworm_1|noun|サナダムシ|さなだむし|sanadamushi|have a tapeworm|サナダムシが体にいる
 tappet_1|noun|タペット|たぺっと|tapetto|hydraulic tappet|油圧タペット
 tar_1|noun|タール|たーる|ta-ru|maximum tar content of cigarette|たばこの最大タール含有量
-Tara_1|noun|タラ|たら|tara|Tara Hill in Ireland|アイルランドのタラの丘
+tara_1|noun|タラ|たら|tara|Tara Hill in Ireland|アイルランドのタラの丘
 tarantula_1|noun|タランチュラ|たらんちゅら|taranchura|find a tarantula|タランチュラを発見する
 tardy_1|verb|遅刻する|ちこくする|chikoku suru|tardy to class|学校に遅刻する
 target_1|noun|対象|たいしょう|taishou|target of regulation|規定対象
@@ -12111,11 +12111,11 @@ think_1|verb|思う|おもう|omou|I think he will be home before long.|彼は�
 think_2|verb|考える|かんがえる|kangaeru|You should always think before you speak.|あなたは常に、話す前に考えるべきです。
 trudge_1|verb|とぼとぼ歩く|とぼとぼあるく|tobotoboaruku|trudge home|家までとぼとぼ歩く
 trudge_2|noun|重い足どり|おもいあしどり|omoiashidori|slow trudge|ゆっくりとした重い足取りで
-TRUE_1|adjective|真|しん|shin|true faith|真の信仰
-TRUE_2|adjective|本物|ほんもの|honmono|true love|本物の愛
-TRUE_3|adjective|正しい|ただしい|tadashii|true judgment|正しい判断
-TRUE_4|adjective|実|じつ|jitsu|true story|実話
-TRUE_5|adjective|本当|ほんとう|hontou|That's true.|本当です。
+true_1|adjective|真|しん|shin|true faith|真の信仰
+true_2|adjective|本物|ほんもの|honmono|true love|本物の愛
+true_3|adjective|正しい|ただしい|tadashii|true judgment|正しい判断
+true_4|adjective|実|じつ|jitsu|true story|実話
+true_5|adjective|本当|ほんとう|hontou|That's true.|本当です。
 truly_1|adverb|実に|じつに|jitsuni|truly have an amazing career|実に素晴らしい経歴がある
 truly_2|adverb|本当に|ほんとうに|hontouni|truly peaceful|本当に平和である
 truly_3|adverb|全く|まったく|mattaku|truly terrific show|全く素晴らしいショー
@@ -12150,8 +12150,8 @@ tuberculosis_1|noun|結核|けっかく|kekkaku|Tuberculosis is an infectious di
 tubular_1|adjective|管状|かんじょう|kanjou|tubular element|管状部材
 tuck_1|noun|裾|すそ|suso|take out a tuck|裾をおろす
 tuck_2|verb|押し込む|おしこむ|oshikomu|tuck one's shirt in|シャツをズボンの中に押し込む
-Tuesday_1|noun|火曜日|かようび|kayoubi|on Tuesday morning|火曜日の朝に
-Tuesday_2|noun|火曜|かよう|kayoubi|every other Tuesday|隔週火曜日に
+tuesday_1|noun|火曜日|かようび|kayoubi|on Tuesday morning|火曜日の朝に
+tuesday_2|noun|火曜|かよう|kayoubi|every other Tuesday|隔週火曜日に
 tug_1|verb|引っ張る|ひっぱる|hipparu|tug at someone's hand|人の手を引っ張る
 tuition_1|noun|授業料|じゅぎょうりょう|jugyouryou|The tuition is paid for by the university.|授業料は大学が負担する
 tuition_2|noun|学費|がくひ|gakuhi|pay tuition|学費を支払う
@@ -12541,8 +12541,8 @@ thunderclap_1|noun|雷鳴|らいめい|raiu|huge thunderstorm with big thundercl
 thunderous_1|adjective|とどろきわたる|とどろきわたる|todorokiwataru|thunderous cheers|とどろきわたる歓声
 thunderous_2|adjective|雷のような|かみなりのような|kaminarinoyouna|thunderous explosion|雷のような爆発
 thunderstorm_1|noun|雷雨|らいう|raiu|torrential thunderstorm|激しい雷雨
-Thursday_1|noun|木曜日|もくようび|mokuyoubi|Thursday come, and the week is gone.|木曜日になれば、１週間がほとんど過ぎたようなもの。
-Thursday_2|noun|木曜|もくよう|mokuyou|on Thursday evening|木曜の夜に
+thursday_1|noun|木曜日|もくようび|mokuyoubi|Thursday come, and the week is gone.|木曜日になれば、１週間がほとんど過ぎたようなもの。
+thursday_2|noun|木曜|もくよう|mokuyou|on Thursday evening|木曜の夜に
 thus_1|conjunction|だから|だから|dakara|Thus I feel happy to help those foreigners.|だから私も、そのような外国人の役に立てれば嬉しいです。
 thwack_1|verb|ピシャリと叩く|ぴしゃりとたたく|pisharitotataku|thwack at a roach|ゴキブリをピシャリと叩く
 thwart_1|verb|阻止する|そしする|soshisuru|thwart military operations|軍事行動を阻止する
@@ -12618,7 +12618,7 @@ ternary_2|adjective|第三|だいさん|daisan|ternary element|第三元素
 terrace_1|noun|テラス|てらす|terasu|relax at terrace|テラスでくつろぐ
 terrain_1|noun|地形|ちけい|chikei|alpine terrain|高山地形
 terrain_2|noun|地域|ちいき|chiiki|desert terrain|砂漠地域
-Terramycin_1|noun|テラマイシン|てらまいしん|teramaishin|terramycin exam|テラマイシン実験
+terramycin_1|noun|テラマイシン|てらまいしん|teramaishin|terramycin exam|テラマイシン実験
 terrestrial_1|adjective|陸生|りくせい|rikusei|terrestrial carnivores|陸生肉食動物
 terrestrial_2|adjective|地球の|ちきゅうの|chikyuuno|terrestrial age|地球年齢
 terrible_1|adjective|とんでもない|とんでもない|tondemonai|make terrible gaffes|とんでもない失言をする
@@ -12858,15 +12858,15 @@ texture_2|noun|生地|きじ|kiji|a harsh texture|粗い生地
 texture_3|noun|テクスチャ|てくすちゃ|tekusucha|sound texture|サウンドテクスチャ
 texture_4|noun|組織|そしき|soshiki|metal texture|金属組織
 texture_5|noun|感触|かんしょく|kanshoku|soft texture|柔らかい感触
-Thailand_1|noun|タイ|たい|tai|take scuba diving lessons in Thailand|タイでスキューバダイビングのレッスンを受ける
+thailand_1|noun|タイ|たい|tai|take scuba diving lessons in Thailand|タイでスキューバダイビングのレッスンを受ける
 thallium_1|noun|タリウム|たりうむ|tariumu|thallium mining|タリウム鉱業
 than_1|conjunction|以上|いじょう|ijou|than anticipated|予想以上の
 than_2|conjunction|よりも|よりも|yorimo|than any man alive|この世の誰よりも
 than_3|conjunction|～より|～より|~yori|The Tokyo Tower is taller than the Eiffel Tower.|東京タワーはエッフェル塔よりも高い。
 thank_1|verb|感謝する|かんしゃ|kansha|thank someone for coming|来てくれた事に感謝する
-Thank-you_1|phrase|ありがとう|ありがとう|arigatou|Thank you for coming.|来てくれてありがとう。
-Thank-you_2|exclamation|ありがとう|ありがとう|arigatou|Thank you for your kind explanation. (informal)|丁寧な説明をありがとう。
-Thank-you_3|exclamation|ありがとうございます|ありがとうございます|arigatou gozaimasu|Thank you for your prompt reply. (formal)|お早いご返事、ありがとうございます。
+thank-you_1|phrase|ありがとう|ありがとう|arigatou|Thank you for coming.|来てくれてありがとう。
+thank-you_2|exclamation|ありがとう|ありがとう|arigatou|Thank you for your kind explanation. (informal)|丁寧な説明をありがとう。
+thank-you_3|exclamation|ありがとうございます|ありがとうございます|arigatou gozaimasu|Thank you for your prompt reply. (formal)|お早いご返事、ありがとうございます。
 thankful_1|adjective|感謝している|かんしゃしている|kansha shiteiru|be thankful for the support through the years|長年の支援に感謝している
 thanksgiving_1|noun|感謝祭|かんしゃさい|kanshasai|harvest thanksgiving|収穫感謝祭
 that_1|adjective|あの|あの|ano|You see that tree.|あの木が見えるでしょう。
@@ -12883,8 +12883,8 @@ thaw_1|verb|解凍する|かいとう|kaitou|thaw frozen food|冷凍食品を解
 thaw_2|noun|雪解け|ゆきどけ|yukidoke|January thaw|一月の雪解け
 the_1|adjective|その|その|sono|the water in the pond|その池の水
 the_2|determiner|その|その|sono|The project have already started last week.|そのプロジェクトはもう先週に始まった。
-the-Chinese_1|noun|中国人|ちゅうごくじん|chuugokujin|The Chinese had a great influence on the culture of Eastern Asia.|中国人は東アジアの文化に大きな影響を与えた。
-the-Grim-Reaper_1|noun|死に神|しにがみ|shinigami|brush with the Grim Reaper|死に神との遭遇
+the-chinese_1|noun|中国人|ちゅうごくじん|chuugokujin|The Chinese had a great influence on the culture of Eastern Asia.|中国人は東アジアの文化に大きな影響を与えた。
+the-grim-reaper_1|noun|死に神|しにがみ|shinigami|brush with the Grim Reaper|死に神との遭遇
 the-other-side_1|noun|向こう|むこう|mukou|on the other side of a river|川の向こう
 the-other-side_2|noun|反対側|はんたいがわ|hantaigawa|from the other side of the street|道路の反対側から
 the-other-side_3|noun|裏側|うらがわ|uragawa|the other side of the moon|月の裏側
@@ -13272,13 +13272,13 @@ toilet_4|noun|化粧室|けしょうしつ|keshoushitsu|Could you tell me where 
 toilet_5|noun|トイレット|といれっと|toiretto|change a toilet paper roll|トイレットペーパーを交換する
 toilet_6|noun|化粧|けしょう|keshou|do one's toilet|化粧する
 toilsome_1|adjective|骨の折れる|ほねのおれる|honenooreru|toilsome work|骨の折れる仕事
-Tokamak_1|noun|トカマク|とかまく|tokamaku|tokamak device|トカマク装置
+tokamak_1|noun|トカマク|とかまく|tokamaku|tokamak device|トカマク装置
 token_1|noun|しるし|しるし|shirushi|Here's a small token of my appreciation. Please accept it.|これはほんのお礼のしるしです。どうぞお納め下さい。
 token_2|noun|証|あかし|akashi|token of affection|愛情の証
 token_3|noun|引換券|ひきかえけいｎ|hikikaeken|food token|食料引換券
 token_4|noun|切符|きっぷ|kippu|buy a token|切符を買う
 token_5|noun|トークン|とーくん|to-kun|priority token|優先トークン
-Tokyo_1|noun|東京|とうきょう|toukyou|Tokyo is Japan's capital city.|東京は日本の首都だ。
+tokyo_1|noun|東京|とうきょう|toukyou|Tokyo is Japan's capital city.|東京は日本の首都だ。
 tolerable_1|adjective|許容|きょよう|kyoyou|tolerable range|許容範囲
 tolerable_2|adjective|耐容|たいよう|taiyou|tolerable weekly intake|耐容週間摂取量
 tolerable_3|adjective|受忍|じゅにん|junin|tolerable limit|受忍限度
@@ -14100,8 +14100,8 @@ hover_2|verb|舞う|まう|mau|hover overhead|上空を舞う
 how_1|adverb|どれくらい|どれくらい|dorekurai|Do you know how far is the temple?|お寺までどれくらい遠いのですか？
 how_2|noun|いくら|いくら|ikura|How much is this camera?|このカメラはいくらですか？
 how_3|question word|どう|どう|dou|How should I say this?|どう言えばいいのか？
-How-are-you?_1|phrase|元気？|げんき？|genki?|How are you recently? (informal)|最近は元気？
-How-are-you?_2|phrase|お元気ですか？|おげんきですか？|ogenki desu ka?|How are you recently? (formal)|最近はお元気ですか？
+how-are-you?_1|phrase|元気？|げんき？|genki?|How are you recently? (informal)|最近は元気？
+how-are-you?_2|phrase|お元気ですか？|おげんきですか？|ogenki desu ka?|How are you recently? (formal)|最近はお元気ですか？
 how-many_1|question word|いくつ|いくつ|ikutsu|How many cars do you have?|車はいくつ持っているの？
 how-much_1|question word|どのくらい|どのくらい|dono kurai|How much water should I give to your cactus?|君のサボテンにどのくらいの水をあげればいい？
 how-much_2|question word|いくら|いくら|ikura|How much is this shirt?|このシャツはいくらですか？
@@ -14214,7 +14214,7 @@ harrow_1|noun|鋤|すき|suki|disk harrow|円型鋤
 harrowing_1|adjective|痛ましい|いたましい|itamashii|harrowing episode|痛ましい出来事
 harrowing_2|adjective|悲惨|ひさん|hisan|harrowing fighting|悲惨な戦い
 harrowing_3|adjective|みじめ|みじめ|mijime|with a harrowing eye|惨めな目で
-Harry_1|noun|ハリー|はりー|hari-|Harry is only 40.|ハリーはまだ40歳だ。
+harry_1|noun|ハリー|はりー|hari-|Harry is only 40.|ハリーはまだ40歳だ。
 harsh_1|adjective|苛酷|かこく|kakoku|harsh environment|苛酷な環境
 harvest_1|noun|収穫|しゅうかく|shuukaku|fruit harvest|果実収穫
 harvestman_1|noun|刈り入れ作業者|かりいれさぎょうしゃ|kariiresagyou|work as a harvestman|刈りいれ作業者として働く
@@ -14279,17 +14279,17 @@ know_2|verb|分かる|わかる|wakaru|know the difference between right and wro
 knowledge_1|noun|知識|ちしき|chishiki|deep knowledge|深い知識
 knuckle_1|noun|指関節|ゆびかんせつ|yubikansetsu|crack one's knuckle|指関節を鳴らす
 koala_1|noun|コアラ|こあら|koara|koala in zoo|動物園のコアラ
-Kodak_1|noun|コダック|こだっく|kodakku|Kodak Research Laboratories|コダック研究所
+kodak_1|noun|コダック|こだっく|kodakku|Kodak Research Laboratories|コダック研究所
 kohlrabi_1|noun|コールラビ|こーるらび|ko-rurabi|white kohlrabi|白コールラビ
-Korea_1|noun|韓国|かんこく|kankoku|Korea Broadcasting System|韓国放送
-Korea_2|noun|コリア|こりあ|koria|Korea Volunteer Association|コリア・ボランティア教会
-Korea_3|noun|朝鮮|ちょうせん|chousen|Meanwhile, North Korea has insisted it would freeze its programs in exchange for concessions.|一方、北朝鮮は、譲歩と引き換えに計画を凍結すると主張している
-Korean_1|adjective|韓国|かんこく|kankoku|Korean food|韓国料理
-Korean_2|noun|韓国人|かんこくじん|kankokujin|My sister-in-low is a Korean.|私の義姉は韓国人です。
+korea_1|noun|韓国|かんこく|kankoku|Korea Broadcasting System|韓国放送
+korea_2|noun|コリア|こりあ|koria|Korea Volunteer Association|コリア・ボランティア教会
+korea_3|noun|朝鮮|ちょうせん|chousen|Meanwhile, North Korea has insisted it would freeze its programs in exchange for concessions.|一方、北朝鮮は、譲歩と引き換えに計画を凍結すると主張している
+korean_1|adjective|韓国|かんこく|kankoku|Korean food|韓国料理
+korean_2|noun|韓国人|かんこくじん|kankokujin|My sister-in-low is a Korean.|私の義姉は韓国人です。
 kosher_1|adjective|コーシャー|こーしゃー|ko-sha-|kosher butcher|コーシャーの肉屋
 krypton_1|noun|クリプトン|くりぷとん|kuriputon|radioactive krypton|放射性クリプトン
 kumquat_1|noun|ろ|きんかん|kinkan|round kumquat|マルミキンカン
-Kyoto_1|noun|京都|きょうと|kyouto|meet with a geisha in Kyoto|京都で芸者と出会う
+kyoto_1|noun|京都|きょうと|kyouto|meet with a geisha in Kyoto|京都で芸者と出会う
 kickoff_1|noun|キックオフ|きっくおふ|kikkuofu|They are just about to kickoff.|もうすぐキックオフだ。
 kid_1|noun|子供|こども|kodomo|raise a healthy kid|子供を健康に育てる
 kiddie_1|adjective|子供|こども|kodomo|kiddie birthday party|子供の誕生日パーティー
@@ -14328,12 +14328,12 @@ kite_1|noun|凧|たこ|tako|The kite was caught on a tree.|凧が木に引っか
 kitten_1|noun|子猫|こねこ|koneko|cry of a kitten|子猫の鳴き声
 kitty_1|noun|子猫|こねこ|koneko|adopt a kitty|adopt a kitty
 kiwi_1|noun|キーウィ|きーうぃ|kiiwi|kiwi allergy|キーウィアレルギー
-Klaxon_1|noun|クラクション|くらくしょん|kurakushon|noisy Klaxon|やかましいクラクション
+klaxon_1|noun|クラクション|くらくしょん|kurakushon|noisy Klaxon|やかましいクラクション
 knack_1|noun|才能|さいのう|sainou|have a knack for math|計算の才能がある
 knapsack_1|noun|ナップザック|なっぷざっく|nappuzakku|go to a mountain with a knapsack|ナップザックを背負って山へ行く
 kale_1|noun|ケール|けーる|ke-ru|Scotch kale|スコッチケール
 kaleidoscope_1|noun|万華鏡|まんげきょう|mangekyou|look into a kaleidoscope|万華鏡を覗き込む
-Kamikaze_1|noun|神風|かみかぜ|kamikaze|Kamikaze Suicide Squad|神風特攻隊
+kamikaze_1|noun|神風|かみかぜ|kamikaze|Kamikaze Suicide Squad|神風特攻隊
 kana_1|noun|仮名|かな|kana|For input, you can use either kanji or kana.|入力には漢字と仮名のどちらでも使えます。
 kangaroo_1|noun|カンガルー|かんがるー|kangaru-|aggressive kangaroo|攻撃的なカンガルー
 kapok_1|noun|カポック|かぽっく|kapokku|kapok seed|カポックの種
@@ -14521,7 +14521,7 @@ index_2|noun|索引|さくいん|sakuin|command index|コマンド索引
 index_3|noun|インデックス|いんでっくす|indekkusu|currency index|通貨インデックス
 index_4|verb|索引を付ける|さくいんをつける|sakuin o tsukeru|index a book|本に索引を付ける
 index-finger_1|noun|人差し指|ひとさしゆび|hitosashiyubi|left index finger|左手の人差し指
-India_1|noun|インド|いんど|indo|travel to India|インドを旅行する
+india_1|noun|インド|いんど|indo|travel to India|インドを旅行する
 indicate_1|verb|示す|しめす|shimesu|indicate an allergic reaction|アレルギー反応を示す
 indices_1|noun|索引|さくいん|sakuin|back-of-the-book indices|巻末索引
 indices_2|noun|インデックス|いんでっくす|indekkusu|work indices|仕事インデックス
@@ -14582,7 +14582,7 @@ issue_4|verb|発する|はっする|hassuru|issue a command|命令を発する
 issue_5|verb|刊行する|かんこうする|kankō suru|issue today's newspaper|今日の新聞を刊行する
 it_1|pronoun|それ|それ|sore|I don't like it.|それは好きじゃない。
 italic_1|noun|イタリック|いたりっく|itarikku|italic face|イタリック書体
-Italy_1|noun|イタリア|いたりあ|itaria|Italy's unemployment rate was especially high in 2013.|イタリアの失業率は2013年に特に高かった。
+italy_1|noun|イタリア|いたりあ|itaria|Italy's unemployment rate was especially high in 2013.|イタリアの失業率は2013年に特に高かった。
 itch_1|noun|かゆみ|かゆみ|kayumi|ocular itch|目のかゆみ
 itch_2|verb|ムズムズする|むずむずする|muzumuzu suru|itch to speak|しゃべりたくてムズムズする
 item_1|noun|件|けん|ken|study item|検討の件
@@ -14749,16 +14749,16 @@ imbecile_1|noun|低能者|ていのうしゃ|teinousha|because of an imbecile|�
 imbibe_1|verb|飲む|のむ|nomu|imbibe alcohol|アルコールを飲む
 imbroglio_1|noun|難局|なんきょく|nankyoku|diplomatic imbroglio|外交的な難局
 imbrue_1|verb|血で染める|ちでそめる|chidesomeru|imbrue one's sword with blood|剣を血で染める
-I_1|pronoun|私|わたし|watashi|I accepted his proposal.|私は彼のプロポーズを引き受けました。
-I_2|pronoun|僕|ぼく|boku|I will protect her from anything.|僕が彼女を全てのものから守ります。
-I_3|pronoun|俺|おれ|ore|Are you listening to what I'm saying? (very informal)|俺の言ってること聞いてるかい？
-I-love-you_1|phrase|愛している|あいしてる|aishiteru|I love you the way you are.|ありのままのあなたを愛している。
-I-miss-you_1|phrase|あなたがいなくて寂しい|あなたがいなくてさみしい|anatagainakutesamishii|I miss you every day.|毎日あなたがいなくて寂しい。
-I'm-sorry_1|phrase|あしからず|あしからず|ashikarazu|I'm sorry I couldn't get away.|手が離せずあしからず。
-I'm-sorry_2|phrase|ごめんなさい|ごめんなさい|gomen'nasai|I'm sorry but this is not something that I am used to eating.|ごめんなさい。これは食べなれていないものです。
-I'm-sorry_3|exclamation|すみません|すみません|sumimasen|I apologize for the delay. (formal)|遅くなってすみません。
-I'm-sorry_4|exclamation|ごめん|ごめん|gomen|I'm sorry that I forgot about our lunch today. (informal)|今日の昼ごはんを忘れちゃってごめん。
-I'm-sorry_5|exclamation|ごめんなさい|ごめんなさい|gomen nasai|I'm sorry that I forgot about our lunch today. (formal)|今日の昼ごはんを忘れてしまってごめんなさい。
+i_1|pronoun|私|わたし|watashi|I accepted his proposal.|私は彼のプロポーズを引き受けました。
+i_2|pronoun|僕|ぼく|boku|I will protect her from anything.|僕が彼女を全てのものから守ります。
+i_3|pronoun|俺|おれ|ore|Are you listening to what I'm saying? (very informal)|俺の言ってること聞いてるかい？
+i-love-you_1|phrase|愛している|あいしてる|aishiteru|I love you the way you are.|ありのままのあなたを愛している。
+i-miss-you_1|phrase|あなたがいなくて寂しい|あなたがいなくてさみしい|anatagainakutesamishii|I miss you every day.|毎日あなたがいなくて寂しい。
+i'm-sorry_1|phrase|あしからず|あしからず|ashikarazu|I'm sorry I couldn't get away.|手が離せずあしからず。
+i'm-sorry_2|phrase|ごめんなさい|ごめんなさい|gomen'nasai|I'm sorry but this is not something that I am used to eating.|ごめんなさい。これは食べなれていないものです。
+i'm-sorry_3|exclamation|すみません|すみません|sumimasen|I apologize for the delay. (formal)|遅くなってすみません。
+i'm-sorry_4|exclamation|ごめん|ごめん|gomen|I'm sorry that I forgot about our lunch today. (informal)|今日の昼ごはんを忘れちゃってごめん。
+i'm-sorry_5|exclamation|ごめんなさい|ごめんなさい|gomen nasai|I'm sorry that I forgot about our lunch today. (formal)|今日の昼ごはんを忘れてしまってごめんなさい。
 ibex_1|noun|アイベックス|あいべっくす|aibekkusu|Alpine ibex|アルプス・アイデックス
 ice_1|noun|アイス|あいす|aisu|ice skate|アイススケート
 ice_2|noun|氷|こおり|koori|ice on the surface of water|水面の氷
@@ -17007,7 +17007,7 @@ bezel_1|noun|ベゼル|べぜる|bezeru|front bezel|表面ベゼル
 bias_1|noun|バイアス|ばいあす|baiasu|small sample bias|小標本バイアス
 biaxial_1|adjective|二軸|にじく|nijiku|biaxial test|二軸試験
 bib_1|noun|よだれかけ|よだれかけ|yodarekake|baby bib|赤ちゃんのよだれかけ
-Bible_1|noun|聖書|せいしょ|seisho|illustrated Bible|イラスト付き聖書
+bible_1|noun|聖書|せいしょ|seisho|illustrated Bible|イラスト付き聖書
 biblical_1|adjective|聖書|せいしょ|seisho|biblical literature|聖書文学
 bibliography_1|noun|目録|もくろく|mokuroku|reference bibliography|参考文献目録
 bibliophile_1|noun|愛書家|あいしょか|aishoka|group of bibliophiles|愛書家達のグループ
@@ -17144,8 +17144,8 @@ nice-to-meet-you_3|exclamation|宜しくお願いします|よろしくおねが
 nice-to-meet-you_4|exclamation|宜しく|よろしく|yoroshiku|I'm also a foreign student from Mexico, it's nice to meet you. (informal)|僕もメキシコの留学生だよ。よろしく。
 nicety_1|noun|細かい点|こまかいてん|komakaiten|I'm not concerned with niceties.|細かい点は気にしません。
 niche_1|noun|ニッチ|にっち|nicchi|niche technology|ニッチ技術
-Nichrome_1|noun|ニクロム|にくろむ|nikuromu|Nichrome wire|ニクロム線
-Nick_1|noun|ニック|にっく|nikku|Nick Bottom|ニック・ボトム
+nichrome_1|noun|ニクロム|にくろむ|nikuromu|Nichrome wire|ニクロム線
+nick_1|noun|ニック|にっく|nikku|Nick Bottom|ニック・ボトム
 nickel_1|noun|ニッケル|にっける|nikkeru|copper nickel|銅ニッケル
 nickname_1|noun|異名|いみょう|imyou|with the nickname|異名をとる
 nickname_2|noun|通称|つうしょう|tsuushou|Kimutaku is the nickname for KIMURA Takuya, a highly popular Japanese personality.|キムタクは木村拓哉の通称で、日本の超人気タレントだ。
@@ -17326,7 +17326,7 @@ nap_5|noun|仮眠|かみん|kamin|5minute nap|5分間の仮眠
 nape_1|noun|うなじ|うなじ|unaji|touch one's nape of the neck|うなじを触る
 napkin_1|noun|口拭き|くちふき|kuchifuki|lay a napkin across one's lap|膝に口拭きを置く
 napkin_2|noun|ナプキン|なぷきん|napukin|Can I have a napkin?|ナプキンを下さい。
-Nara_1|noun|奈良|なら|nara|Nara has many beautiful buddhist temples.|奈良には多数の美しいお寺があります。
+nara_1|noun|奈良|なら|nara|Nara has many beautiful buddhist temples.|奈良には多数の美しいお寺があります。
 narcissist_1|noun|ナルシスト|なるしすと|narushisuto|You tend to be a narcissist.|ナルシストになりがちです。
 narcissist_2|noun|自惚れや|うぬぼれや|unuboreya|Don't be a narcissist.|自惚れやになるなよ。
 narcissus_1|noun|水仙|すいせん|suisen|black narcissus|黒水仙
@@ -17408,7 +17408,7 @@ nouveau_1|noun|ヌーボ|ぬーぼ|nu-bo|Wine lovers can expect an especially de
 nova_1|noun|新星|しんせい|shinsei|quiescent nova|静穏新星
 novel_1|noun|小説|しょうせつ|shousetsu|The novel appealed to people across the globe.|その小説は世界中の人々の心に訴えました。
 novelty_1|noun|目新しさ|めあたらしさ|meatarashisa|Kyoto weaves the tradition with the novelty.|京都は伝統と目新しさが混在している。
-November_1|noun|十一月|じゅういちがつ|juuichigatsu|November 15th is the day of the Shichi-go-san or Seven-five-three festival in Japan.|日本では11月15日は七五三の日です。
+november_1|noun|十一月|じゅういちがつ|juuichigatsu|November 15th is the day of the Shichi-go-san or Seven-five-three festival in Japan.|日本では11月15日は七五三の日です。
 novice_1|noun|初心者|しょしんしゃ|shoshinsha|teenage novice|十代の初心者
 novitiate_1|noun|修練期間|しゅうれんきかん|syuurenkikan|long novitiate|長い修練期間
 now_1|noun|今|いま|ima|What time is it now?|今何時ですか？
@@ -17439,8 +17439,8 @@ nip_3|verb|摘み取る|つみとる|tsumitoru|nip a leaf|葉を摘み取る
 nipple_1|noun|乳房|にゅうぼう|nyuubou|tip of a nipple|乳房の先端
 nipple_2|noun|乳首|ちくび|chikubi|let the baby suck the nipple|乳児に乳首を含ませる
 nipple_3|noun|乳頭|にゅうとう|nyuutou|nipple inflammation|乳頭炎
-Nirvana_1|noun|涅槃|ねはん|nehan|give up finding nirvana|涅槃に至ろうとするのをやめる
-NIT_1|noun|逆所得税|ぎゃくしょとくぜい|gyakusyotokuzei|Negative income tax=NIT|逆所得税
+nirvana_1|noun|涅槃|ねはん|nehan|give up finding nirvana|涅槃に至ろうとするのをやめる
+nit_1|noun|逆所得税|ぎゃくしょとくぜい|gyakusyotokuzei|Negative income tax=NIT|逆所得税
 nitrate_1|noun|硝酸塩|しょうさんえん|shousan'en|nitrate determination|硝酸塩測定
 nitric_1|adjective|硝酸|しょうさん|shousan|nitric compound|硝酸化合物
 nitrite_1|noun|亜硝酸塩|あしょうさんえん|ashousan'en|nitrate action|亜硝酸塩作用
@@ -17533,7 +17533,7 @@ newspaperman_1|noun|新聞記者|しんぶんきしゃ|shinbunkisha|local newspa
 newsreel_1|noun|ニュース映画|にゅーすえいが|nyu-sueiga|newsreel footage|newsreel image from the period
 newsstand_1|noun|売店|ばいてん|baiten|buy a newspaper at the newsstand|売店で新聞を買う
 newt_1|noun|イモリ|いもり|imori|small newt|小さなイモリ
-Newton_1|noun|ニュートン|にゅーとん|nyu-ton|Newton method|ニュートン法
+newton_1|noun|ニュートン|にゅーとん|nyu-ton|Newton method|ニュートン法
 next_1|adjective|次|じ|ji|next time|次回
 next_2|adjective|翌|よく|yoku|next morning|翌朝
 next_3|adjective|今度|こんど|kondo|next chance|今度の機会
@@ -17625,9 +17625,9 @@ prime_2|noun|盛り|さかり|sakari|in the prime of womanhood|女盛りであ�
 prime_3|adjective|主要|しゅよう|shuyou|prime condition|主要条件
 prime_4|adjective|優先|ゆうせん|yuusen|prime customer|優先顧客
 prime_5|adjective|基本|きほん|kihon|prime index|基本索引
-Prime-Minister_1|noun|首相|しゅしょう|shushou|prime minister designate|次期首相
-Prime-Minister_2|noun|総理大臣|そうりだいじん|souridaijin|The prime minister of Japan is elected by the Diet from among the members of the Diet.|日本の総理大臣は、国会議員の中から国会で選出されます。
-Prime-Minister_3|noun|総理|そうり|souri|Deputy Prime Minister|副総理
+prime-minister_1|noun|首相|しゅしょう|shushou|prime minister designate|次期首相
+prime-minister_2|noun|総理大臣|そうりだいじん|souridaijin|The prime minister of Japan is elected by the Diet from among the members of the Diet.|日本の総理大臣は、国会議員の中から国会で選出されます。
+prime-minister_3|noun|総理|そうり|souri|Deputy Prime Minister|副総理
 pure-bred_1|adjective|純血種|じゅんけつしゅ|junketsushu|purebred dog|純血種の犬
 purgative_1|noun|下剤|げざい|gezai|irritant purgative|刺激性下剤
 purgatory_1|noun|煉獄|れんごく|rengoku|Penniless souls must pine in purgatory.|文無しの魂は、煉獄に苦しめられる。
@@ -17657,7 +17657,7 @@ put-up_1|verb|張る|はる|haru|put up a mosquito net for the bed|ベッドに�
 putative_1|adjective|推定される|すいていされる|suiteisareru|putative future|推定される将来
 putt_1|noun|パット|ぱっと|patto|downhill putt|下りのパット
 puzzle_1|noun|パズル|ぱずる|pazuru|complicated puzzle|複雑なパズル
-Pygmy_1|noun|ピグミー|ぴぐみー|pigumi-|family of Pygmy|ピグミーの家族
+pygmy_1|noun|ピグミー|ぴぐみー|pigumi-|family of Pygmy|ピグミーの家族
 pyramid_1|noun|ピラミッド|ぴらみっど|piramiddo|hierarchical pyramid|階層ピラミッド
 pyramidal_1|adjective|錐体|すいたい|suitai|pyramidal structure|錐体構造
 pyridine_1|noun|ピリジン|ぴりじん|pirijin|pyridine reaction|ピリジン反応
@@ -17672,7 +17672,7 @@ pants_1|noun|ズボン|ずぼん|zubon|iron pants|ズボンにアイロンをか
 pants_2|noun|パンツ|ぱんつ|pantsu|denim pants|デニムパンツ
 panty_1|noun|パンティー|ぱんてぃー|panti-|wear a silk panty|シルクのパンティーをはく
 pap_1|noun|子供だまし|こどもだまし|kodomodamashi|puerile pap|幼稚な子供だまし
-Papa_1|noun|パパ|ぱぱ|papa|My papa always spoils me.|私のパパ、いつも私を甘やかすの。
+papa_1|noun|パパ|ぱぱ|papa|My papa always spoils me.|私のパパ、いつも私を甘やかすの。
 papal_1|adjective|ローマ教皇の|ろーまきょうこうの|ro-makyoukouno|papal authority|教皇権
 paper_1|noun|紙|かみ|kami|have paper and pencil nearby|近くに紙とペンを置いている
 paper_2|noun|新聞|しんぶん|shinbun|local paper|地元の新聞
@@ -17931,8 +17931,8 @@ pop_1|adjective|ポップ|ぽっぷ|poppu|pop culture|ポップカルチャー
 pop_2|noun|ポップス|ぽっぷす|poppusu|I like pop music.|ポップスが好きです。
 pop_3|verb|破裂する|はれつ|haretsu|The balloon popped.|気球は破裂した。
 pop_4|verb|発砲する|はっぽう|happou|The soldiers were popping.|軍人は発砲していた。
-Pope_1|noun|教皇|きょうこう|kyoukou|from the Pope to the beggar|教皇からこじきに至るまで
-Pope_2|noun|法王|ほうおう|houou|bishop approved by Pope|法王に認められた司教
+pope_1|noun|教皇|きょうこう|kyoukou|from the Pope to the beggar|教皇からこじきに至るまで
+pope_2|noun|法王|ほうおう|houou|bishop approved by Pope|法王に認められた司教
 poplar_1|noun|ポプラ|ぽぷら|popura|hybrid poplar|雑種ポプラ
 poplin_1|noun|ポプリン|ぽぷりん|popurin|poplin dress|ポプリンのドレス
 poppy_1|noun|ポピー|ぽぴー|popi-|oriental poppy|オリエンタル・ポピー
@@ -18103,7 +18103,7 @@ pamphlet_1|noun|パンフレット|ぱんふれっと|panfuretto|produce a pamph
 pan_1|noun|鍋|なべ|nabe|deep pan|深鍋
 pan_2|noun|フライパン|ふらいぱん|furaipan|one pan pasta|フライパン一つでできるパスタ
 panacea_1|noun|特効薬|とっこうやく|tokkouyaku|panacea for economic revival|経済再生の特効薬
-Panama_1|noun|パナマ|ぱなま|panama|born in Panama|パナマに生まれる
+panama_1|noun|パナマ|ぱなま|panama|born in Panama|パナマに生まれる
 pancake_1|noun|パンケーキ|ぱんけーき|panke-ki|turn over a pancake|パンケーキをひっくり返す
 pancreatic_1|adjective|すい臓の|すいぞうの|suizouno|pancreatic malignancy|すい臓の悪性腫瘍
 panda_1|noun|パンダ|ぱんだ|panda|The panda is a shy creature.|パンダは内気な動物です。
@@ -18124,7 +18124,7 @@ pant_1|verb|息を切らす|いきをきらす|ikiwokirasu|pant from playing soc
 pantheon_1|noun|殿堂|でんどう|dendou|literary pantheon|文学界の殿堂
 panther_1|noun|豹|ひょう|hyou|black panther|黒豹
 pace_1|noun|速度|そくど|sokudo|pace of walking|歩く速度
-Pacific_1|noun|太平洋|たいへいよう|taiheiyou|on the Pacific coast|太平洋沿岸で
+pacific_1|noun|太平洋|たいへいよう|taiheiyou|on the Pacific coast|太平洋沿岸で
 pacifism_1|noun|平和主義|へいわしゅぎ|heiwashugi|postwar pacifism|戦後の平和主義
 pacifist_1|noun|平和主義者|へいわしゅぎしゃ|heiwashugisha|passionate pacifist|熱烈な平和主義者
 pacify_1|verb|なだめる|なだめる|nadameru|pacify angry people|怒った人々をなだめる
@@ -18256,7 +18256,7 @@ petit_1|adjective|プチ|ぷち|puchi|petit pain|プチパン
 petite_1|adjective|小柄|こがら|kogara|petite woman|小柄な女性
 petition_1|noun|嘆願|たんがん|tangan|petition from the people|人々による嘆願
 petrel_1|noun|ウミツバメ|うみつばめ|umitsubame|diving petrel|モグリウミツバメ
-Petri_1|noun|ペトリ|ぺとり|petori|Petri net|ペトリネット
+petri_1|noun|ペトリ|ぺとり|petori|Petri net|ペトリネット
 petrify_1|verb|石化する|せきか|sekika|the wood petrified with time|時間とともに石化される木
 petrochemical_1|noun|石油化学|せきゆかがく|sekiyukagaku|petrochemical technology|石油科学技術
 petrol_1|noun|ガソリン|がそりん|gasorin|surging petrol prices|急騰するガソリン価格
@@ -19334,7 +19334,7 @@ plenary_1|adjective|全員出席の|ぜんいんしゅっせきの|zen'inshussek
 premature_1|adjective|早期|そうき|souki|premature hair loss|早期の脱毛
 premeditate_1|verb|前もって考える|まえもってかんがえる|maemottekangaeru|premeditate one's retirement|退職を前もって考える
 premeditated_1|adjective|計画的|けいかくてき|keikakuteki|premeditated crime|計画的犯行
-Premier_1|noun|内閣総理大臣|ないかくそうりだいじん|naikakusouridaijin|Japan's premier|日本の内閣総理大臣
+premier_1|noun|内閣総理大臣|ないかくそうりだいじん|naikakusouridaijin|Japan's premier|日本の内閣総理大臣
 premiere_1|noun|プレミア|ぷれみあ|puremia|Several personalities attended the movie's premiere.|何人かの有名人が、その映画のプレミアに出席しました。
 premiere_2|noun|初演|しょえん|shoen|theatrical world premiere|舞台の世界初演
 premiere_3|noun|初日|しょにち|shonichi|see a movie before the premiere|映画を初日より先に見る
@@ -19718,7 +19718,7 @@ octahedron_1|noun|八面体|はちめんたい|hachimentai|regular octahedron|�
 octal_1|adjective|八進|はっしん|hasshin|octal numeral|八進数
 octane_1|noun|オクタン|おくたん|okutan|octane type|オクタン型
 octave_1|noun|オクターブ|おくたーぶ|okuta-bu|keyboard octave|鍵盤オクターブ
-October_1|noun|十月|じゅうがつ|juugatsu|October 31st is Halloween.|十月三十一日はハロウェーンです。
+october_1|noun|十月|じゅうがつ|juugatsu|October 31st is Halloween.|十月三十一日はハロウェーンです。
 octogenarian_1|adjective|80代の|はちじゅうだいの|hachijuudaino|octogenarian male|80代の男性
 octopus_1|noun|タコ|たこ|tako|An octopus has many suckers on the underside of its tentacles.|タコは触手の裏面にたくさんの吸盤がある。
 ocular_1|adjective|眼の|めの|meno|ocular itch|眼のかゆみ
@@ -19858,8 +19858,8 @@ obviate_1|verb|未然に防ぐ|みぜんにふせぐ|mizen ni fusegu|obviate the
 obvious_1|adjective|明らか|あきらか|akiraka|It's obvious that I'll never be a doctor.|私が医者になれないのは明らかだ。
 occasion_1|noun|機会|きかい|kikai|take this occasion|この機会を利用する
 occasionally_1|adverb|たまに|たまに|tama ni|use the metro occasionally|たまにメトロを使う
-Occident_1|noun|西洋|せいよう|seiyou|a native inhabitant of the Occident|西洋で生まれ育った人
-Occidental_1|adjective|西洋|せいよう|seiyou|Occidental medical|西洋医学
+occident_1|noun|西洋|せいよう|seiyou|a native inhabitant of the Occident|西洋で生まれ育った人
+occidental_1|adjective|西洋|せいよう|seiyou|Occidental medical|西洋医学
 occlude_1|verb|塞ぐ|ふさぐ|fusagu|occlude a blood vessel|血管を塞ぐ
 occlusion_1|noun|閉塞|へいそく|heisoku|early occlusion|早期閉塞
 occlusive_1|adjective|閉塞性|へいそくせい|heisokusei|occlusive thrombus|閉塞性血管
@@ -19937,7 +19937,7 @@ organization_1|noun|組織|そしき|soshiki|organization for management|管理�
 orgasm_1|noun|オルガズム|おるがずむ|orugazumu|attain orgasm|オルガズムに達する
 orgiastic_1|adjective|飲めや歌えの|のめやうたえの|nomeyautaeno|orgiastic party|飲めや歌えのパーティー
 orgy_1|noun|乱交パーティー|らんこうぱーてぃー|rankoupa-ti-|have an orgy|乱交パーティーを開く
-Orient_1|noun|東洋|とうよう|touyou|Orient and the West|東洋と西洋
+orient_1|noun|東洋|とうよう|touyou|Orient and the West|東洋と西洋
 oriental_1|adjective|東洋|とうよう|touyou|oriental medicine|東洋医学
 orifice_1|noun|開口部|かいこうぶ|kaikoubu|body orifice|身体開口部
 origin_1|noun|起源|きげん|kigen|origin of modern humans|現生人類の起源
@@ -20047,16 +20047,16 @@ often_1|adverb|よく|よく|yoku|often appear on TV|よくテレビに出る
 ogre_1|noun|鬼|おに|oni|look like an ogre|鬼のように見える
 oh_1|expression|ああ|ああ|aa|Oh, really?|ああ、本当に？
 oh-no_1|exclamation|大変|たいへん|taihen|Oh no, I think I forgot the documents at home.|大変、書類を家に忘れてきたかも。
-Ohm_1|noun|オーム|おーむ|o-mu|law of Ohm|オームの法則
+ohm_1|noun|オーム|おーむ|o-mu|law of Ohm|オームの法則
 oil_1|noun|油|あぶら|abura|sesame oil|ごま油
 oil_2|noun|石油|せきゆ|sekiyu|oil and gas|石油とガス
 oily_1|adjective|油性|ゆせい|yusei|oily fluid|油性液体
 oily_2|adjective|油っぽい|あぶらっぽい|aburappoi|have oily facial skin|顔の肌が油っぽい
 ointment_1|noun|軟膏|なんこう|nankou|burn ointment|火傷軟膏
-OK_1|adjective|大丈夫な|だいじょうぶな|daijoubu na|Is your leg OK?|足は大丈夫ですか？
-OK_2|exclamation|分かった|わかった|wakatta|OK, I will finish the assignment by tomorrow.|分かりました。課題は明日までに完成させます。
-OK_3|interjection|さ|さ|sa|OK, keep on talking.|さ、話を続けて。
-OK_4|exclamation|構わない|かまわない|kamawanai|If you don't mind, it is OK by me.|君さえよかったら、僕は構わない。
+ok_1|adjective|大丈夫な|だいじょうぶな|daijoubu na|Is your leg OK?|足は大丈夫ですか？
+ok_2|exclamation|分かった|わかった|wakatta|OK, I will finish the assignment by tomorrow.|分かりました。課題は明日までに完成させます。
+ok_3|interjection|さ|さ|sa|OK, keep on talking.|さ、話を続けて。
+ok_4|exclamation|構わない|かまわない|kamawanai|If you don't mind, it is OK by me.|君さえよかったら、僕は構わない。
 old_1|adjective|古い|ふるい|furui|old building|古い建物
 old-maid_1|noun|ばば抜き|ばばぬき|babanuki|We played old maid|私達はばば抜きをしました。
 old-man_1|noun|老人|ろうじん|roujin|help an old man cross the street|老人が道を渡るのを手伝う
@@ -20177,9 +20177,9 @@ cancellation_2|noun|解除|かいじょ|kaijo|cancellation of policy|保険契�
 cancellation_3|noun|削除|さくじょ|sakujo|program cancellation|プログラムの削除
 cancellation_4|noun|取り消し|とりけし|torikeshi|cancellation of a deal|取引の取り消し
 cancellation_5|noun|帳消し|ちょうけし|choukeshi|cancellation of a dept|借金を帳消しにする
-Cancer_1|noun|かに座|かにざ|kaniza|"Cancer as a ""water sign"" makes the signals of this energy more difficult to be perceived."|「水の星座」であるかに座は、高揚する気持ちを相手に伝えにくい人なのです。
-Cancer_2|noun|癌|がん|gan|Brest cancer|乳癌
-Cancer_3|noun|がん|がん|gan|find a cure for cancer|がんの治療法を見つける
+cancer_1|noun|かに座|かにざ|kaniza|"Cancer as a ""water sign"" makes the signals of this energy more difficult to be perceived."|「水の星座」であるかに座は、高揚する気持ちを相手に伝えにくい人なのです。
+cancer_2|noun|癌|がん|gan|Brest cancer|乳癌
+cancer_3|noun|がん|がん|gan|find a cure for cancer|がんの治療法を見つける
 cancerous_1|adjective|癌性|がんせい|gansei|cancerous mole|癌性のホクロ
 candid_1|adjective|率直|そっちょく|socchoku|candid discussion|率直な議論
 candid_2|adjective|さばさば|さばさば|sabasaba|candid enough to tell|さばさばと話す
@@ -20309,7 +20309,7 @@ census_2|noun|人口調査|じんこうちょうさ|jinkouchousa|census statisti
 census_3|noun|国勢調査|こくせいちょうさ|kokuseichousa|The census remains the most basic source of information for local authorities.|国勢調査は、地方自治体にとって今なお最も基本的な情報源です。
 census_4|noun|センサス|せんさす|sensasu|economic census|経済センサス
 cent_1|noun|セント|せんと|sento|20 cent|２０セント
-Centaur_1|noun|ケンタウロス|けんたうるす|kentaurosu|constellation Centaurs|ケンタウルス座
+centaur_1|noun|ケンタウロス|けんたうるす|kentaurosu|constellation Centaurs|ケンタウルス座
 centenary_1|noun|百年祭|ひゃくねんさい|hyakunensai|centenary of the incorporation of Tachikawa as a city|立川市制百年祭
 centennial_1|noun|百周年|ひゃくしゅうねん|hyakushuunen|centennial of Hemingway's birth|ヘミングウェイの生誕百周年
 center_1|noun|センター|せんたー|sentaa|innovation center|イノベーションセンター
@@ -20317,7 +20317,7 @@ center_2|noun|中心|ちゅうしん|chuushin|the center of the world|世界の�
 centerline_1|noun|中心線|ちゅうしんせん|chuushinsen|road centerline|道路中心線
 centerpiece_1|noun|中心部|ちゅうしんぶ|chuushinbu|centerpiece of the table|テーブルの中心部
 centerpiece_2|adjective|最重要|さいじゅうよう|saijuuyou|centerpiece proposal|最重要な提案
-Centigrade_1|noun|摂氏|せっし|sesshi|centigrade temperature|摂氏温度
+centigrade_1|noun|摂氏|せっし|sesshi|centigrade temperature|摂氏温度
 centipede_1|noun|ムカデ|むかで|mukade|larger centipede|大型ムカデ
 centipede_2|noun|ゲジゲジ|げじげじ|gejigeji|anti centipede|ゲジゲジ対策
 central_1|noun|中央|ちゅうおう|chuuou|Central Africa|中央アフリカ
@@ -20499,7 +20499,7 @@ coincide_1|verb|重なる|かさなる|kasanaru|coincide with several national h
 coincide_2|verb|一致する|いっち|icchi|Appearance seldom coincides with reality.|見かけと現実はめったに一致しない。
 coincident_1|adjective|同時|どうじ|douji|coincident error|同時エラー
 coincidental_1|adjective|偶然|ぐうぜん|guuzen|coincidental meeting|偶然の出会い
-Coke_1|noun|コカコーラ|こかこーら|kokako-ra|Two slices of pizza and one Coke, please.|ピザ二切れとコカコーラをお願い。
+coke_1|noun|コカコーラ|こかこーら|kokako-ra|Two slices of pizza and one Coke, please.|ピザ二切れとコカコーラをお願い。
 cola_1|noun|コーラ|こーら|ko-ra|cola drinks|コーラ飲料
 colander_1|noun|ザル|ざる|zaru|drain in a colander|ザルにとって水切りする
 cold_1|adjective|寒い|さむい|samui|cold area|寒い地域
@@ -21110,8 +21110,8 @@ cathedral_2|noun|カテドラル|かてどらる|katedoraru|cathedral ceiling|�
 cathedral_3|noun|カセドラル|かせどらる|kasedoraru|cathedral glass|カセドラルグラス
 catheter_1|noun|カテーテル|かてーてる|kate-teru|catheter care|カテーテルのケア
 cathode_1|noun|陰極|いんきょく|inkyoku|cathode development|陰極開発
-Catholic_1|noun|カソリック|かそりっく|kasorikku|Catholic Church|カソリック教会
-Catholic_2|noun|カトリック|かとりっく|katorikku|catholic belief|カトリック信仰
+catholic_1|noun|カソリック|かそりっく|kasorikku|Catholic Church|カソリック教会
+catholic_2|noun|カトリック|かとりっく|katorikku|catholic belief|カトリック信仰
 cation_1|noun|カチオン|かちおん|kachion|sulfur cation|硫黄カチオン
 catkin_1|noun|尾状花|びじょうか|bijouka|learn about catkin|尾状花について学ぶ
 catlike_1|adjective|猫のような|ねこのような|nekonoyouna|in a catlike manner|猫のような方法で
@@ -21360,10 +21360,10 @@ chimeric_1|adjective|キメラ|きめら|kimera|chimeric mutant|キメラ変異�
 chimney_1|noun|煙突|えんとつ|entotsu|industrial chimney|工業煙突
 chimpanzee_1|noun|チンパンジー|ちんぱんじー|chinpanji-|wild chimpanzee|野生チンパンジー
 chin_1|noun|顎|あご|ago|jutting chin|突き出た顎
-China_1|noun|中国|ちゅうごく|chuugoku|study in China|中国で勉強する
-Chinese_1|noun|中国語|ちゅうごくご|chuugokugo|Chinese has many different dialects.|中国語には多くの方言がある。
-Chinese_2|adjective|中国の|ちゅうごくの|chuugoku no|a Chinese product|中国の生産物
-Chinese-character_1|noun|漢字|かんじ|kanji|Chinese characters were introduced to Japan around the 5th century.|漢字が日本に伝わったのは5世紀ごろです。
+china_1|noun|中国|ちゅうごく|chuugoku|study in China|中国で勉強する
+chinese_1|noun|中国語|ちゅうごくご|chuugokugo|Chinese has many different dialects.|中国語には多くの方言がある。
+chinese_2|adjective|中国の|ちゅうごくの|chuugoku no|a Chinese product|中国の生産物
+chinese-character_1|noun|漢字|かんじ|kanji|Chinese characters were introduced to Japan around the 5th century.|漢字が日本に伝わったのは5世紀ごろです。
 chink_1|noun|割れ目|われめ|wareme|peek through a chink in the wall|壁の割れ目を通してのぞく
 chip_1|noun|チップ|ちっぷ|chippu|electronic chip|電子チップ
 chipboard_1|noun|チップボード|ちっぷぼーど|chippubo-do|wood chipboard|木質チップボード
@@ -21967,8 +21967,8 @@ chose_1|noun|動産|どうさん|dousan|chose in possession|有体動産
 chosen_1|adjective|選ばれた|えらばれた|erabareta|chosen successor|選ばれた継承者
 chow_1|noun|飯|めし|meshi|When's chow?|飯はまだか？
 chowder_1|noun|チャウダー|ちゃうだー|chauda-|homemade chowder|自家製チャウダー
-Christian_1|noun|キリスト教徒|きりすときょうと|kirisuto-kyouto|a baptized Christian|洗礼を受けたキリスト教徒
-Christmas_1|noun|クリスマス|くりすます|kurisumasu|Christmas is almost here!|もうすぐクリスマスですね！
+christian_1|noun|キリスト教徒|きりすときょうと|kirisuto-kyouto|a baptized Christian|洗礼を受けたキリスト教徒
+christmas_1|noun|クリスマス|くりすます|kurisumasu|Christmas is almost here!|もうすぐクリスマスですね！
 chromate_1|noun|クロム酸|くろむさん|kuromusan|sodium chromate|クロム酸ナトリウム
 chromatic_1|adjective|色|いろ|iro|chromatic display|色表示
 chromatogram_1|noun|クロマトグラム|くろまとぐらむ|kuromatoguramu|gas chromatogram|ガスクロマトグラム
@@ -22391,7 +22391,7 @@ juicy_1|adjective|みずみずしい|みずみずしい|mizumizushii|juicy red a
 juicy_2|adjective|興味をそそる|きょうみをそそる|kyoumiwososoru|juicy gossip|興味をそそる噂話
 juicy_3|adjective|ジューシー|じゅーしー|ju-si-|juicy mussels|ジューシーなムール貝
 julep_1|noun|ジュレップ|じゅれっぷ|jureppu|mint julep|ミント・ジュレップ
-July_1|noun|七月|しちがつ|shichigatsu|July 7th is the day of the Star Festival.|７月７日は七夕の日です。
+july_1|noun|七月|しちがつ|shichigatsu|July 7th is the day of the Star Festival.|７月７日は七夕の日です。
 jumble_1|verb|ごちゃ混ぜにする|ごちゃまぜにする|gochamazenisuru|jumble up the things in the drawer|引き出しの中の物をごちゃ混ぜにする
 jumbo_1|adjective|ジャンボ|じゃんぼ|janbo|jumbo jet|ジャンボジェット機
 jump_1|noun|ジャンプ|じゃんぷ|janpu|bungy jump|バンジージャンプ
@@ -22405,7 +22405,7 @@ jersey_1|noun|ジャージー|じゃーじー|ja-ji-|jersey knit|ジャージ・
 jest_1|noun|諧謔|かいぎゃく|kaigyaku|offhand jest|思いつきの諧謔
 jest_2|noun|戯れ|たわむれ|tawamure|tease someone in jest|人をからかって戯れる
 jest_3|noun|冗談|じょうだん|joudan|It's just jest.|ほんの冗談です。
-Jesus_1|noun|イエス|いえす|iesu|the Resurrection of Jesus Christ|イエス・キリストの復活
+jesus_1|noun|イエス|いえす|iesu|the Resurrection of Jesus Christ|イエス・キリストの復活
 jet_1|noun|ジェット|じぇっと|jetto|private jet|私有ジェット機
 jet_2|noun|噴射|ふんしゃ|funsha|jet angle|噴射角度
 jetliner_1|noun|ジェット旅客機|じぇっとりょかくき|jettoryokakuki|commercial jetliner|商用ジェット旅客機
@@ -22468,12 +22468,12 @@ janitor_1|noun|管理人|かんりにん|kanrinin|building janitor|ビルの管�
 janitor_2|noun|守衛|しゅえい|syuei|duty of the janitor|守衛の仕事
 janitor_3|noun|玄関番|げんかんばん|genkanban|hire a janitor|玄関番を雇う
 janitorial_1|adjective|守衛|しゅえい|shuei|janitorial closet|守衛室
-January_1|noun|一月|いちがつ|ichigatsu|My birthday is 10th of January.|私の誕生日は一月十日です。
-Japan_1|noun|日本|にほん|nihon|Japan beat South Korea 7-1.|日本は７-１で韓国を破った。
-Japanese_1|noun|日本人|にほんじん|nihonjin|an America-born Japanese|アメリカ生まれの日本人
-Japanese_2|noun|日本語|にほんご|nihongo|Japanese has a very similar grammar to Korean.|日本語の文法はよく韓国語に似ている。
-Japanese_3|adjective|日本の|にほんの|nihon no|Many Japanese brands are manufactured outside of Japan.|多くの日本のブランドは海外で製造されている。
-Japanese-harp_1|noun|琴|こと|koto|play on the Japanese harp|琴を弾く
+january_1|noun|一月|いちがつ|ichigatsu|My birthday is 10th of January.|私の誕生日は一月十日です。
+japan_1|noun|日本|にほん|nihon|Japan beat South Korea 7-1.|日本は７-１で韓国を破った。
+japanese_1|noun|日本人|にほんじん|nihonjin|an America-born Japanese|アメリカ生まれの日本人
+japanese_2|noun|日本語|にほんご|nihongo|Japanese has a very similar grammar to Korean.|日本語の文法はよく韓国語に似ている。
+japanese_3|adjective|日本の|にほんの|nihon no|Many Japanese brands are manufactured outside of Japan.|多くの日本のブランドは海外で製造されている。
+japanese-harp_1|noun|琴|こと|koto|play on the Japanese harp|琴を弾く
 jar_1|noun|ジャー|じゃー|ja-|in the jar|ジャーの中
 jar_2|noun|瓶|びん|bin|storage jar|保存瓶
 jar_3|noun|かめ|かめ|kame|water jar|水かめ
@@ -22500,7 +22500,7 @@ jeep_1|noun|ジープ|じーぷ|ji-pu|urban jeep|アーバン・ジープ
 jumpy_1|adjective|苛立つ|いらだつ|iradatsu|Why you act so jumpy.|そんなに苛立つなよ。
 junction_1|noun|合流点|ごうりゅうてん|gouryuuten|junction of rivers|川の合流点
 juncture_1|noun|岐路|きろ|kiro|stand at a critical juncture|重大な岐路に立つ
-June_1|noun|六月|ろくがつ|rokugatsu|June bride|６月の花嫁
+june_1|noun|六月|ろくがつ|rokugatsu|June bride|６月の花嫁
 jungle_1|noun|ジャングル|じゃんぐる|janguru|dense jungle|密生したジャングル
 junior_1|adjective|年下|としした|toshishita|She's three years junior to me|彼は私より3歳年下である。
 juniper_1|noun|ジュニパー|じゅにぱー|junipa-|juniper berry oil|ジュニパーベリーオイル
@@ -22910,11 +22910,11 @@ enforceable_1|adjective|法的強制力のある|ほうてききょうせいり�
 engage_1|verb|約束する|やくそく|yakusoku|He engaged himself to pay the money by the end of the month,|彼は月末までにその金を支払うことを約束した。
 engine_1|noun|エンジン|えんじん|enjin|auto engine|自動車エンジン
 engineer_1|noun|技術者|ぎじゅつしゃ|gijutsusha|architectural engineer|建設技術者
-England_1|noun|英国|えいこく|eikoku|"In England they say ""petrol"" but in North America they say ""gasoline."""|英国では「ペトロール」と呼ぶが、北米では「ガソリン」と呼ぶ。
-England_2|noun|イングランド|いんぐらんど|ingurando|England has added some new wrinkles to their offense.|イングランドは自軍のオフェンスに新たな趣向を凝らしている。
-English_1|noun|英語|えいご|eigo|English as an international language|国際語としての英語
-English_2|noun|イギリス人|いぎりすじん|igirisujin|My husband is an English.|夫はイギリス人です。
-English_3|adjective|イギリス|いぎりす|igirisu|English culture|イギリス文化
+england_1|noun|英国|えいこく|eikoku|"In England they say ""petrol"" but in North America they say ""gasoline."""|英国では「ペトロール」と呼ぶが、北米では「ガソリン」と呼ぶ。
+england_2|noun|イングランド|いんぐらんど|ingurando|England has added some new wrinkles to their offense.|イングランドは自軍のオフェンスに新たな趣向を凝らしている。
+english_1|noun|英語|えいご|eigo|English as an international language|国際語としての英語
+english_2|noun|イギリス人|いぎりすじん|igirisujin|My husband is an English.|夫はイギリス人です。
+english_3|adjective|イギリス|いぎりす|igirisu|English culture|イギリス文化
 enhance_1|verb|深める|ふかめる|fukameru|enhance a cooperative relationship|協力的な関係を深める
 enhance_2|verb|高める|たかめる|takameru|enhance communication ability|コミュニケーション能力を高める
 enhance_3|verb|強化する|きょうか|kyouka|enhance international contributions|国際貢献を強化する
@@ -22950,7 +22950,7 @@ evaluate_1|verb|評価する|ひょうか|hyouka|evaluate a new technique|新し
 evanescent_1|adjective|一過性|いっかせい|ikkasei|evanescent papule|一過性の丘疹
 evaporate_1|verb|蒸発する|じょうはつ|jouhatsu|evaporate through the skin|皮膚から蒸発する
 evasion_1|noun|回避|かいひ|kaihi|aircraft evasion|航空機回避
-Eve_1|noun|イブ|いぶ|ibu|Christmas Eve|クリスマスイブ
+eve_1|noun|イブ|いぶ|ibu|Christmas Eve|クリスマスイブ
 even_1|particle|でさえ|でさえ|desae|It's even very cold in May.|５月でさえとても寒い。
 evenhanded_1|adjective|公平|こうへい|kouhei|even-handed position|公平な立場
 evening_1|noun|夕方|ゆうがた|yuugata|by tomorrow evening|明日の夕方までに
@@ -23004,8 +23004,8 @@ excruciate_1|verb|拷問にかける|ごうもんにかける|gōmon ni kakeru|e
 excursion_1|noun|小旅行|しょうりょこう|shouryokou|weekend excursion|週末の小旅行
 excusable_1|adjective|許される|ゆるされる|yurusareru|excusable error|許される誤り
 excuse_1|noun|言い訳|いいわけ|iiwake|excuse for being late|遅刻の言い訳
-Excuse-me_1|phrase|御免なさい|ごめんなさい|gomennasai|Excuse me for saying this.|こんな事を言って御免なさい。
-Excuse-me_2|phrase|すみません|すみません|sumimasen|Excuse me, are you Mr.Suzuki?|すみません、鈴木さんですか？
+excuse-me_1|phrase|御免なさい|ごめんなさい|gomennasai|Excuse me for saying this.|こんな事を言って御免なさい。
+excuse-me_2|phrase|すみません|すみません|sumimasen|Excuse me, are you Mr.Suzuki?|すみません、鈴木さんですか？
 execrable_1|adjective|忌まわしい|いまわしい|imawashii|execrable voice|忌まわしい声
 execute_1|verb|実行する|じっこう|jikkou|execute another program|別のプログラムを実行する
 execute_2|verb|実行する|じっこうする|jikkou suru|execute a computer program|コンピューターのプログラムを実行する
@@ -23284,7 +23284,7 @@ vent_1|noun|はけ口|はけぐち|hakeguchi|find vent|はけ口を見つける
 ventilate_1|verb|換気する|かんき|kanki|ventilate the office by opening the window|窓を開けて職場を換気する
 ventricle_1|noun|心室|しんしつ|shinshitsu|right ventricle|右心室
 venture_1|noun|企業|きぎょう|kigyou|a joint venture|合併企業
-Venus_1|noun|金星|きんせい|kinsei|Venus is the second planet from the Sun.|金星は太陽から二番目の惑星であｒ。
+venus_1|noun|金星|きんせい|kinsei|Venus is the second planet from the Sun.|金星は太陽から二番目の惑星であｒ。
 veracious_1|adjective|真実の|しんじつの|shinjitsuno|veracious information|真実の情報
 veracity_1|noun|信憑性|しんぴょうせい|shinpyousei|veracity of the story|話の信憑性
 veranda_1|noun|ベランダ|べらんだ|beranda|smoke at veranda|ベランダで煙草をする
@@ -23412,7 +23412,7 @@ valediction_1|noun|告別の辞|こくべつのじ|kokubetsunoji|long valedictio
 valedictorian_1|noun|卒業生総代|そつぎょうせいそうだい|sotsugyouseisoudai|make a speech as valedictorian|卒業生総代としてスピーチをする
 valedictory_1|adjective|告別の|こくべつの|kokubetsuno|valedictory remarks|告別の辞
 valedictory_2|noun|告別演説|こくべつえんぜつ|kokubetsuenzetsu|make a valedictory|告別演説をする
-Valentine_1|noun|バレンタイン|ばれんたいん|barentain|Saint Valentine|聖バレンタイン
+valentine_1|noun|バレンタイン|ばれんたいん|barentain|Saint Valentine|聖バレンタイン
 valet_1|noun|ボーイ|ぼーい|bo-i|working as a valet at a hotel|ホテルのボーイとして働く
 valiant_1|adjective|勇敢|ゆうかん|yuukan|valiant battle|勇敢な戦い
 valid_1|adjective|有効|ゆうこう|yuukou|valid in law|法的に有効である
