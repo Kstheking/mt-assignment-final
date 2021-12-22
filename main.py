@@ -9,9 +9,9 @@ excel_file_path = 'english_to_japanease.xlsx'
 
 if __name__ == '__main__':
     print('(*) Fetching word links')
-    fetch_words_link()
+    # fetch_words_link()
     print('(+) Done\n(*) Fetching word meanings')
-    fetch_meanings()
+    # fetch_meanings()
     print('(+) Done\n(*) Merging word meanings')
     data = merge_meanings()
     print('(+) Done\n(*) Generating CSV from JSON')

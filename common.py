@@ -29,6 +29,7 @@ def get_subfiles(path):
         {'path': f.path, 'name': f.name.split('.')[0]} for f in os.scandir(path) if f.is_file()]
     return list_subfiles_path
 
+word_exist={}
 
 def json_to_csv_generator(json_file_path, csv_file_path):
     with open(json_file_path, 'r', encoding='utf8') as file_json:
@@ -47,8 +48,14 @@ def json_to_csv_generator(json_file_path, csv_file_path):
                     for hindi in hindi_concept_pair[word]:
                         hindi_concept = hindi_concept+hindi+","
                 hindi_concept = hindi_concept[:-1]
-                [writer.writerow({'english': word.replace(' ', '-').lower()+'_'+str(i+1), 'hindi_concept': hindi_concept, 'type': wd['type'], 'japanese': wd['japanese'], 'hirangana': wd['hirangana'],
-                                  'pronunciation': wd['pronunciation'],  'example_eng': wd['example_eng'], 'example_jap': wd['example_jap']}) for i, wd in enumerate(word_definitions)]
+                pronunciation={}
+                for i, wd in enumerate(word_definitions):
+                    if wd['pronunciation'] in pronunciation:
+                        pronunciation[wd['pronunciation']]=pronunciation[wd['pronunciation']]+1
+                    else:
+                        pronunciation[wd['pronunciation']]=1
+                    writer.writerow({'english': word.replace(' ', '-').lower()+'_'+str(i+1), 'hindi_concept': hindi_concept, 'type': wd['type'], 'japanese': wd['japanese'], 'hirangana': wd['hirangana'],
+                                  'pronunciation': wd['pronunciation']+'_'+str(pronunciation[wd['pronunciation']]),  'example_eng': wd['example_eng'], 'example_jap': wd['example_jap']}) 
 
 
 def get_english_word_hindi_concept(h_concept_file_path):
